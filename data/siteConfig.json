@@ -1,0 +1,18 @@
+{
+  "brandName": "Muscat Explorer",
+  "tagline": "Discover Muscat. Compare experiences. Book with confidence.",
+  "domain": "https://www.muscatexplorer.com",
+  "supportEmail": "hello@muscatexplorer.com",
+  "defaultDestination": "muscat",
+  "socials": {
+    "instagram": "https://instagram.com/muscatexplorer",
+    "facebook": "https://facebook.com/muscatexplorer",
+    "pinterest": "https://pinterest.com/muscatexplorer"
+  },
+  "integrations": {
+    "googleAnalyticsId": "",
+    "googleTagManagerId": "",
+    "googleSearchConsoleVerification": "",
+    "adSenseClientId": ""
+  }
+}

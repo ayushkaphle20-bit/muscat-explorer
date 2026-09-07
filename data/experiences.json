@@ -1,0 +1,791 @@
+[
+  {
+    "id": "exp-001",
+    "slug": "wadi-shab-bimmah-sinkhole",
+    "destination": "muscat",
+    "categories": [
+      "day-trips",
+      "water-activities",
+      "adventure"
+    ],
+    "name": "Wadi Shab & Bimmah Sinkhole Full-Day Tour",
+    "shortDescription": "Swim through turquoise pools, hike a scenic canyon and visit the famous Bimmah Sinkhole on this full-day trip from Muscat.",
+    "fullDescription": "Escape the city on a full-day journey along Oman's eastern coast, combining two of the country's most photographed natural wonders. Begin with a short hike into Wadi Shab, a narrow canyon of turquoise pools framed by palm groves and limestone cliffs, where a short swim leads to a hidden cave waterfall. Afterwards, cool off at Bimmah Sinkhole, a collapsed limestone crater filled with blue-green water, before returning to Muscat in the late afternoon.",
+    "highlights": [
+      "Hike and swim through the pools of Wadi Shab",
+      "Visit the hidden cave waterfall (seasonal, water levels permitting)",
+      "Swim in the turquoise Bimmah Sinkhole",
+      "Small-group transport with air-conditioned vehicle",
+      "Free time for photography at each stop"
+    ],
+    "included": [
+      "Hotel pickup and drop-off in Muscat",
+      "Air-conditioned transport",
+      "English-speaking driver/guide",
+      "Bottled water"
+    ],
+    "excluded": [
+      "Food and additional drinks",
+      "Gratuities",
+      "Personal swimwear and towel"
+    ],
+    "meetingPoint": "Hotel pickup from most central Muscat hotels; confirm exact time after booking.",
+    "cancellationPolicy": "Free cancellation up to 24 hours before the experience starts for a full refund.",
+    "faq": [
+      {
+        "q": "Is swimming required?",
+        "a": "Reaching the cave waterfall at Wadi Shab involves swimming through a narrow channel, though the main pools can be enjoyed without going that far."
+      },
+      {
+        "q": "What should I bring?",
+        "a": "Swimwear, a towel, water shoes, sunscreen and a change of clothes are recommended."
+      },
+      {
+        "q": "Is this tour suitable for children?",
+        "a": "Older children who are comfortable swimming can usually take part; check with the provider for age recommendations."
+      }
+    ],
+    "rating": 4.7,
+    "reviewCount": 1243,
+    "duration": "9 hours",
+    "price": 45,
+    "currency": "OMR",
+    "provider": "GetYourGuide",
+    "affiliateUrl": "https://www.getyourguide.com/muscat-l162/PLACEHOLDER-AFFILIATE-LINK-wadi-shab",
+    "image": "/images/experiences/wadi-shab-1.jpg",
+    "gallery": [
+      "/images/experiences/wadi-shab-1.jpg",
+      "/images/experiences/wadi-shab-2.jpg",
+      "/images/experiences/bimmah-sinkhole-1.jpg"
+    ],
+    "featured": true,
+    "bestOverall": true,
+    "bestBudget": false,
+    "bestFamily": false,
+    "bestPrivate": false,
+    "bestLuxury": false,
+    "isDemoData": true
+  },
+  {
+    "id": "exp-002",
+    "slug": "wadi-shab-small-group-hiking",
+    "destination": "muscat",
+    "categories": [
+      "day-trips",
+      "adventure",
+      "water-activities"
+    ],
+    "name": "Wadi Shab Small-Group Hiking & Swimming Tour",
+    "shortDescription": "A more active, small-group version of the classic Wadi Shab trip with extra hiking time and a smaller group size.",
+    "fullDescription": "Designed for travelers who want more time in the canyon and a smaller group, this tour keeps groups to a maximum of eight people. After an early departure from Muscat to beat the crowds, spend extended time hiking, swimming and exploring Wadi Shab before a relaxed drive back.",
+    "highlights": [
+      "Maximum group size of 8",
+      "Early departure to avoid crowds",
+      "Extended time in the canyon",
+      "Experienced local guide"
+    ],
+    "included": [
+      "Hotel pickup and drop-off",
+      "Small-group transport",
+      "Local guide",
+      "Bottled water"
+    ],
+    "excluded": [
+      "Meals",
+      "Gratuities",
+      "Snorkeling gear"
+    ],
+    "meetingPoint": "Hotel pickup from central Muscat.",
+    "cancellationPolicy": "Free cancellation up to 24 hours before the experience starts.",
+    "faq": [
+      {
+        "q": "How fit do I need to be?",
+        "a": "A moderate fitness level is recommended; the hike includes uneven rocky terrain."
+      }
+    ],
+    "rating": 4.9,
+    "reviewCount": 356,
+    "duration": "8 hours",
+    "price": 62,
+    "currency": "OMR",
+    "provider": "Viator",
+    "affiliateUrl": "https://www.viator.com/tours/Muscat/PLACEHOLDER-AFFILIATE-LINK-wadi-shab-small-group",
+    "image": "/images/experiences/wadi-shab-2.jpg",
+    "gallery": [
+      "/images/experiences/wadi-shab-2.jpg",
+      "/images/experiences/wadi-shab-1.jpg"
+    ],
+    "featured": false,
+    "bestOverall": false,
+    "bestBudget": false,
+    "bestFamily": false,
+    "bestPrivate": true,
+    "bestLuxury": false,
+    "isDemoData": true
+  },
+  {
+    "id": "exp-003",
+    "slug": "budget-wadi-shab-group-tour",
+    "destination": "muscat",
+    "categories": [
+      "day-trips",
+      "water-activities"
+    ],
+    "name": "Wadi Shab Group Day Trip (Budget)",
+    "shortDescription": "An affordable, larger-group option for visiting Wadi Shab and the surrounding coastline.",
+    "fullDescription": "A budget-friendly way to see Wadi Shab as part of a larger shared group. Includes round-trip transport from Muscat and free time at the wadi to swim and explore at your own pace.",
+    "highlights": [
+      "Lowest-priced Wadi Shab option",
+      "Shared group transport",
+      "Free time to explore at your own pace"
+    ],
+    "included": [
+      "Round-trip transport",
+      "Driver"
+    ],
+    "excluded": [
+      "Guide commentary",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "meetingPoint": "Central Muscat pickup point (confirmed after booking).",
+    "cancellationPolicy": "Free cancellation up to 48 hours before the experience starts.",
+    "faq": [
+      {
+        "q": "Is a guide included?",
+        "a": "This option includes transport only; a dedicated walking guide is not included."
+      }
+    ],
+    "rating": 4.3,
+    "reviewCount": 512,
+    "duration": "7 hours",
+    "price": 28,
+    "currency": "OMR",
+    "provider": "GetYourGuide",
+    "affiliateUrl": "https://www.getyourguide.com/muscat-l162/PLACEHOLDER-AFFILIATE-LINK-wadi-shab-budget",
+    "image": "/images/experiences/wadi-shab-1.jpg",
+    "gallery": [
+      "/images/experiences/wadi-shab-1.jpg"
+    ],
+    "featured": false,
+    "bestOverall": false,
+    "bestBudget": true,
+    "bestFamily": false,
+    "bestPrivate": false,
+    "bestLuxury": false,
+    "isDemoData": true
+  },
+  {
+    "id": "exp-004",
+    "slug": "daymaniyat-islands-snorkeling-cruise",
+    "destination": "muscat",
+    "categories": [
+      "water-activities",
+      "wildlife",
+      "cruises"
+    ],
+    "name": "Daymaniyat Islands Snorkeling Boat Trip",
+    "shortDescription": "Sail out to the protected Daymaniyat Islands for snorkeling among coral reefs, turtles and tropical fish.",
+    "fullDescription": "The Daymaniyat Islands are a protected nature reserve roughly an hour by boat from Muscat's marinas. This trip includes multiple snorkeling stops around the islands' coral reefs, where sightings of green turtles, reef fish and occasionally dolphins are common. Lunch and snorkeling equipment are provided aboard a comfortable boat.",
+    "highlights": [
+      "Multiple snorkeling stops around the islands",
+      "Chance to see turtles and reef fish",
+      "Snorkeling gear included",
+      "Lunch served on board"
+    ],
+    "included": [
+      "Boat transport",
+      "Snorkeling equipment",
+      "Lunch",
+      "Marine reserve entry fee"
+    ],
+    "excluded": [
+      "Hotel pickup (available as an add-on)",
+      "Underwater camera rental",
+      "Gratuities"
+    ],
+    "meetingPoint": "Marina departure point in Muscat, details sent after booking.",
+    "cancellationPolicy": "Free cancellation up to 24 hours before departure; trips may be rescheduled due to weather.",
+    "faq": [
+      {
+        "q": "Do I need snorkeling experience?",
+        "a": "No prior experience is required; life jackets and basic instruction are provided."
+      },
+      {
+        "q": "Is the reserve open year-round?",
+        "a": "The Daymaniyat Islands Nature Reserve is typically closed part of the year for turtle nesting season; check current dates when booking."
+      }
+    ],
+    "rating": 4.8,
+    "reviewCount": 987,
+    "duration": "5 hours",
+    "price": 55,
+    "currency": "OMR",
+    "provider": "Viator",
+    "affiliateUrl": "https://www.viator.com/tours/Muscat/PLACEHOLDER-AFFILIATE-LINK-daymaniyat",
+    "image": "/images/experiences/daymaniyat-1.jpg",
+    "gallery": [
+      "/images/experiences/daymaniyat-1.jpg",
+      "/images/experiences/daymaniyat-2.jpg"
+    ],
+    "featured": true,
+    "bestOverall": true,
+    "bestBudget": false,
+    "bestFamily": true,
+    "bestPrivate": false,
+    "bestLuxury": false,
+    "isDemoData": true
+  },
+  {
+    "id": "exp-005",
+    "slug": "daymaniyat-islands-private-charter",
+    "destination": "muscat",
+    "categories": [
+      "water-activities",
+      "wildlife",
+      "cruises"
+    ],
+    "name": "Private Boat Charter to Daymaniyat Islands",
+    "shortDescription": "A private boat charter for small groups wanting a more exclusive snorkeling experience at the Daymaniyat Islands.",
+    "fullDescription": "Charter a private boat for your group and set your own pace exploring the Daymaniyat Islands reserve. Ideal for families, couples or small groups who prefer flexibility over a shared-group schedule.",
+    "highlights": [
+      "Private boat for your group only",
+      "Flexible itinerary and timing",
+      "Captain and crew included"
+    ],
+    "included": [
+      "Private boat and crew",
+      "Snorkeling equipment",
+      "Soft drinks and water"
+    ],
+    "excluded": [
+      "Lunch (available on request)",
+      "Hotel transfers",
+      "Marine park fee for large groups"
+    ],
+    "meetingPoint": "Marina in Muscat, confirmed after booking.",
+    "cancellationPolicy": "Free cancellation up to 72 hours before departure.",
+    "faq": [
+      {
+        "q": "What is the maximum group size?",
+        "a": "Boats typically accommodate up to 8-10 guests; larger groups can request a bigger vessel."
+      }
+    ],
+    "rating": 4.9,
+    "reviewCount": 142,
+    "duration": "5 hours",
+    "price": 180,
+    "currency": "OMR",
+    "provider": "GetYourGuide",
+    "affiliateUrl": "https://www.getyourguide.com/muscat-l162/PLACEHOLDER-AFFILIATE-LINK-daymaniyat-private",
+    "image": "/images/experiences/daymaniyat-2.jpg",
+    "gallery": [
+      "/images/experiences/daymaniyat-2.jpg"
+    ],
+    "featured": false,
+    "bestOverall": false,
+    "bestBudget": false,
+    "bestFamily": false,
+    "bestPrivate": true,
+    "bestLuxury": true,
+    "isDemoData": true
+  },
+  {
+    "id": "exp-006",
+    "slug": "nizwa-and-jebel-akhdar-day-trip",
+    "destination": "muscat",
+    "categories": [
+      "day-trips",
+      "culture",
+      "adventure"
+    ],
+    "name": "Nizwa Fort & Jebel Akhdar Day Trip",
+    "shortDescription": "Explore Nizwa's historic fort and souk before heading up into the terraced mountains of Jebel Akhdar.",
+    "fullDescription": "Travel inland from Muscat to Nizwa, once Oman's capital and home to a well-preserved 17th-century fort and a lively traditional souk. Continue up into the Al Hajar mountains to Jebel Akhdar (the 'Green Mountain'), known for its terraced rose and fruit gardens and dramatic canyon viewpoints.",
+    "highlights": [
+      "Explore Nizwa Fort and souk",
+      "Scenic mountain drive up Jebel Akhdar",
+      "Viewpoints over terraced villages",
+      "Sample local produce depending on season"
+    ],
+    "included": [
+      "Hotel pickup and drop-off",
+      "4x4 transport (required for Jebel Akhdar road)",
+      "English-speaking driver/guide",
+      "Bottled water"
+    ],
+    "excluded": [
+      "Lunch",
+      "Fort entry fee",
+      "Gratuities"
+    ],
+    "meetingPoint": "Hotel pickup from central Muscat.",
+    "cancellationPolicy": "Free cancellation up to 24 hours before the experience starts.",
+    "faq": [
+      {
+        "q": "Is a 4x4 really necessary?",
+        "a": "Yes, the road to Jebel Akhdar requires a 4x4 vehicle and is restricted for standard cars."
+      }
+    ],
+    "rating": 4.7,
+    "reviewCount": 621,
+    "duration": "10 hours",
+    "price": 58,
+    "currency": "OMR",
+    "provider": "GetYourGuide",
+    "affiliateUrl": "https://www.getyourguide.com/muscat-l162/PLACEHOLDER-AFFILIATE-LINK-nizwa-jebel-akhdar",
+    "image": "/images/experiences/nizwa-1.jpg",
+    "gallery": [
+      "/images/experiences/nizwa-1.jpg",
+      "/images/experiences/jebel-akhdar-1.jpg"
+    ],
+    "featured": true,
+    "bestOverall": true,
+    "bestBudget": false,
+    "bestFamily": true,
+    "bestPrivate": false,
+    "bestLuxury": false,
+    "isDemoData": true
+  },
+  {
+    "id": "exp-007",
+    "slug": "wahiba-sands-overnight-desert-camp",
+    "destination": "muscat",
+    "categories": [
+      "desert-tours",
+      "adventure"
+    ],
+    "name": "Wahiba Sands Overnight Desert Camp",
+    "shortDescription": "Dune bashing, camel riding and a night under the stars in a traditional Bedouin-style desert camp.",
+    "fullDescription": "Head into the dramatic dunes of the Wahiba Sands for an overnight desert experience. The afternoon includes dune bashing by 4x4 and an optional camel ride, followed by a traditional Omani dinner at camp, stargazing and an overnight stay in a shared or private tent before a sunrise return to Muscat.",
+    "highlights": [
+      "4x4 dune bashing",
+      "Traditional Bedouin-style camp",
+      "Dinner and breakfast included",
+      "Stargazing away from city lights"
+    ],
+    "included": [
+      "Hotel pickup and drop-off",
+      "4x4 transport",
+      "Overnight tent accommodation",
+      "Dinner and breakfast"
+    ],
+    "excluded": [
+      "Alcoholic drinks",
+      "Camel ride (optional add-on)",
+      "Gratuities"
+    ],
+    "meetingPoint": "Hotel pickup from central Muscat, early afternoon departure.",
+    "cancellationPolicy": "Free cancellation up to 48 hours before departure.",
+    "faq": [
+      {
+        "q": "Are private tents available?",
+        "a": "Shared camps are standard; private tents can usually be requested for an additional fee."
+      },
+      {
+        "q": "Is dune bashing safe?",
+        "a": "Experienced local drivers operate the 4x4 vehicles; seatbelts should be worn at all times."
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 734,
+    "duration": "22 hours (overnight)",
+    "price": 95,
+    "currency": "OMR",
+    "provider": "Viator",
+    "affiliateUrl": "https://www.viator.com/tours/Muscat/PLACEHOLDER-AFFILIATE-LINK-wahiba-sands",
+    "image": "/images/experiences/wahiba-sands-1.jpg",
+    "gallery": [
+      "/images/experiences/wahiba-sands-1.jpg",
+      "/images/experiences/wahiba-sands-2.jpg"
+    ],
+    "featured": true,
+    "bestOverall": true,
+    "bestBudget": false,
+    "bestFamily": false,
+    "bestPrivate": false,
+    "bestLuxury": false,
+    "isDemoData": true
+  },
+  {
+    "id": "exp-008",
+    "slug": "luxury-desert-camp-wahiba-sands",
+    "destination": "muscat",
+    "categories": [
+      "desert-tours"
+    ],
+    "name": "Luxury Desert Camp Experience, Wahiba Sands",
+    "shortDescription": "An upscale overnight desert stay with private en-suite tents and a more curated dining experience.",
+    "fullDescription": "For travelers who want the desert experience without giving up comfort, this luxury camp offers private en-suite tents, a curated Omani menu and a smaller, quieter camp setting away from larger tour groups.",
+    "highlights": [
+      "Private en-suite desert tents",
+      "Small camp, fewer guests",
+      "Curated dinner and breakfast menu"
+    ],
+    "included": [
+      "Private transport",
+      "Luxury tent accommodation",
+      "Dinner and breakfast",
+      "Dune bashing"
+    ],
+    "excluded": [
+      "Spa treatments (if offered)",
+      "Alcoholic drinks",
+      "Gratuities"
+    ],
+    "meetingPoint": "Hotel pickup from central Muscat.",
+    "cancellationPolicy": "Free cancellation up to 72 hours before departure.",
+    "faq": [
+      {
+        "q": "How is this different from the standard camp?",
+        "a": "This option offers private en-suite facilities and a smaller camp, compared to shared facilities in the standard overnight camp."
+      }
+    ],
+    "rating": 4.9,
+    "reviewCount": 98,
+    "duration": "22 hours (overnight)",
+    "price": 245,
+    "currency": "OMR",
+    "provider": "GetYourGuide",
+    "affiliateUrl": "https://www.getyourguide.com/muscat-l162/PLACEHOLDER-AFFILIATE-LINK-luxury-desert-camp",
+    "image": "/images/experiences/wahiba-sands-2.jpg",
+    "gallery": [
+      "/images/experiences/wahiba-sands-2.jpg"
+    ],
+    "featured": false,
+    "bestOverall": false,
+    "bestBudget": false,
+    "bestFamily": false,
+    "bestPrivate": true,
+    "bestLuxury": true,
+    "isDemoData": true
+  },
+  {
+    "id": "exp-009",
+    "slug": "muscat-city-highlights-tour",
+    "destination": "muscat",
+    "categories": [
+      "tours",
+      "culture",
+      "family"
+    ],
+    "name": "Muscat City Highlights Half-Day Tour",
+    "shortDescription": "See the Sultan Qaboos Grand Mosque, Al Alam Palace, Mutrah Souk and Corniche in a half-day city tour.",
+    "fullDescription": "A convenient introduction to Muscat's key landmarks, this half-day tour covers the Sultan Qaboos Grand Mosque, the exterior of Al Alam Palace, the waterfront Corniche and the historic Mutrah Souk, with a knowledgeable guide providing context along the way.",
+    "highlights": [
+      "Visit the Sultan Qaboos Grand Mosque",
+      "Photo stop at Al Alam Palace",
+      "Walk through Mutrah Souk",
+      "Corniche waterfront views"
+    ],
+    "included": [
+      "Hotel pickup and drop-off",
+      "Air-conditioned vehicle",
+      "English-speaking guide",
+      "Mosque entry (dress code applies)"
+    ],
+    "excluded": [
+      "Food and drinks",
+      "Gratuities",
+      "Personal shopping"
+    ],
+    "meetingPoint": "Hotel pickup from central Muscat.",
+    "cancellationPolicy": "Free cancellation up to 24 hours before the experience starts.",
+    "faq": [
+      {
+        "q": "Is there a dress code for the mosque?",
+        "a": "Modest dress is required; women should bring a headscarf and shoulders/knees should be covered for all visitors."
+      },
+      {
+        "q": "Is the mosque open every day?",
+        "a": "The Grand Mosque is typically open to non-Muslim visitors on specific mornings; check current visiting hours when booking."
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 1502,
+    "duration": "4 hours",
+    "price": 32,
+    "currency": "OMR",
+    "provider": "Viator",
+    "affiliateUrl": "https://www.viator.com/tours/Muscat/PLACEHOLDER-AFFILIATE-LINK-city-highlights",
+    "image": "/images/experiences/muscat-city-1.jpg",
+    "gallery": [
+      "/images/experiences/muscat-city-1.jpg",
+      "/images/experiences/mutrah-souk-1.jpg"
+    ],
+    "featured": true,
+    "bestOverall": false,
+    "bestBudget": true,
+    "bestFamily": true,
+    "bestPrivate": false,
+    "bestLuxury": false,
+    "isDemoData": true
+  },
+  {
+    "id": "exp-010",
+    "slug": "mutrah-old-town-walking-tour",
+    "destination": "muscat",
+    "categories": [
+      "tours",
+      "culture",
+      "food"
+    ],
+    "name": "Mutrah & Old Muscat Walking Tour",
+    "shortDescription": "An on-foot exploration of Mutrah's souk, corniche and the old town's forts and gates.",
+    "fullDescription": "Walk through the narrow lanes of Mutrah Souk, one of the oldest marketplaces in the Arab world, before continuing along the Corniche into Old Muscat, passing the twin forts of Mirani and Jalali and the gates of the old walled city.",
+    "highlights": [
+      "Mutrah Souk exploration",
+      "Corniche walk",
+      "Views of Mirani and Jalali forts",
+      "Old town gates and alleyways"
+    ],
+    "included": [
+      "Local walking guide",
+      "Bottled water"
+    ],
+    "excluded": [
+      "Hotel pickup (meet on location)",
+      "Food and shopping",
+      "Gratuities"
+    ],
+    "meetingPoint": "Mutrah Corniche, near the fish market entrance.",
+    "cancellationPolicy": "Free cancellation up to 24 hours before the experience starts.",
+    "faq": [
+      {
+        "q": "How much walking is involved?",
+        "a": "Around 3-4 km at a relaxed pace over flat terrain."
+      }
+    ],
+    "rating": 4.8,
+    "reviewCount": 289,
+    "duration": "3 hours",
+    "price": 25,
+    "currency": "OMR",
+    "provider": "GetYourGuide",
+    "affiliateUrl": "https://www.getyourguide.com/muscat-l162/PLACEHOLDER-AFFILIATE-LINK-mutrah-walking",
+    "image": "/images/experiences/mutrah-souk-1.jpg",
+    "gallery": [
+      "/images/experiences/mutrah-souk-1.jpg"
+    ],
+    "featured": false,
+    "bestOverall": false,
+    "bestBudget": true,
+    "bestFamily": false,
+    "bestPrivate": false,
+    "bestLuxury": false,
+    "isDemoData": true
+  },
+  {
+    "id": "exp-011",
+    "slug": "omani-cuisine-cooking-class",
+    "destination": "muscat",
+    "categories": [
+      "food",
+      "culture"
+    ],
+    "name": "Traditional Omani Cooking Class",
+    "shortDescription": "Learn to cook classic Omani dishes with a local host, followed by a shared meal.",
+    "fullDescription": "Join a local host in a hands-on cooking class covering staples of Omani home cooking, such as shuwa-style spicing, rice dishes and traditional sweets, finishing with a shared meal of everything you prepare.",
+    "highlights": [
+      "Hands-on cooking with a local host",
+      "Learn traditional Omani spice blends",
+      "Shared meal at the end of class"
+    ],
+    "included": [
+      "All ingredients",
+      "Recipe booklet to take home",
+      "Meal at the end of the class"
+    ],
+    "excluded": [
+      "Hotel transfers",
+      "Alcoholic drinks",
+      "Gratuities"
+    ],
+    "meetingPoint": "Host's kitchen location in Muscat, address sent after booking.",
+    "cancellationPolicy": "Free cancellation up to 24 hours before the experience starts.",
+    "faq": [
+      {
+        "q": "Can dietary restrictions be accommodated?",
+        "a": "Vegetarian options are usually available; contact the host in advance for other dietary needs."
+      }
+    ],
+    "rating": 4.9,
+    "reviewCount": 176,
+    "duration": "3.5 hours",
+    "price": 38,
+    "currency": "OMR",
+    "provider": "Viator",
+    "affiliateUrl": "https://www.viator.com/tours/Muscat/PLACEHOLDER-AFFILIATE-LINK-cooking-class",
+    "image": "/images/experiences/omani-food-1.jpg",
+    "gallery": [
+      "/images/experiences/omani-food-1.jpg"
+    ],
+    "featured": false,
+    "bestOverall": false,
+    "bestBudget": false,
+    "bestFamily": true,
+    "bestPrivate": false,
+    "bestLuxury": false,
+    "isDemoData": true
+  },
+  {
+    "id": "exp-012",
+    "slug": "sunset-dhow-cruise-muscat",
+    "destination": "muscat",
+    "categories": [
+      "cruises",
+      "family"
+    ],
+    "name": "Sunset Dhow Cruise Along Muscat's Coastline",
+    "shortDescription": "A relaxed evening cruise on a traditional wooden dhow along Muscat's rugged coastline.",
+    "fullDescription": "Board a traditional Omani dhow for a sunset cruise past Muscat's coastal forts and rocky headlands, with light refreshments served on board as the sky changes color over the Gulf of Oman.",
+    "highlights": [
+      "Sail on a traditional wooden dhow",
+      "Sunset views over the coastline",
+      "Light refreshments included"
+    ],
+    "included": [
+      "Boat cruise",
+      "Soft drinks and snacks",
+      "Life jackets"
+    ],
+    "excluded": [
+      "Hotel pickup (available as add-on)",
+      "Alcoholic drinks",
+      "Gratuities"
+    ],
+    "meetingPoint": "Marina Bandar Al Rowdha, Muscat.",
+    "cancellationPolicy": "Free cancellation up to 24 hours before departure; weather dependent.",
+    "faq": [
+      {
+        "q": "Is this suitable for young children?",
+        "a": "Yes, the cruise is calm and family-friendly, though life jackets should be worn by young children."
+      }
+    ],
+    "rating": 4.7,
+    "reviewCount": 845,
+    "duration": "2 hours",
+    "price": 22,
+    "currency": "OMR",
+    "provider": "GetYourGuide",
+    "affiliateUrl": "https://www.getyourguide.com/muscat-l162/PLACEHOLDER-AFFILIATE-LINK-sunset-dhow",
+    "image": "/images/experiences/dhow-cruise-1.jpg",
+    "gallery": [
+      "/images/experiences/dhow-cruise-1.jpg"
+    ],
+    "featured": true,
+    "bestOverall": false,
+    "bestBudget": true,
+    "bestFamily": true,
+    "bestPrivate": false,
+    "bestLuxury": false,
+    "isDemoData": true
+  },
+  {
+    "id": "exp-013",
+    "slug": "dolphin-watching-cruise-muscat",
+    "destination": "muscat",
+    "categories": [
+      "wildlife",
+      "cruises",
+      "family"
+    ],
+    "name": "Dolphin Watching Cruise from Muscat",
+    "shortDescription": "A morning boat trip in search of wild dolphins along the coast near Muscat.",
+    "fullDescription": "Oman's coastal waters are home to several dolphin species, and this morning cruise heads out from Muscat's marinas in search of pods swimming and playing near the boat, with a knowledgeable crew sharing information about local marine life.",
+    "highlights": [
+      "Search for wild dolphins in their natural habitat",
+      "Morning departure for calmer seas",
+      "Small-group boat"
+    ],
+    "included": [
+      "Boat cruise",
+      "Water",
+      "Life jackets"
+    ],
+    "excluded": [
+      "Hotel pickup (available as add-on)",
+      "Food",
+      "Gratuities"
+    ],
+    "meetingPoint": "Marina Bandar Al Rowdha, Muscat.",
+    "cancellationPolicy": "Free cancellation up to 24 hours before departure.",
+    "faq": [
+      {
+        "q": "Are dolphin sightings guaranteed?",
+        "a": "Sightings are common but not guaranteed, as dolphins are wild animals; most trips report sightings, but this varies day to day."
+      }
+    ],
+    "rating": 4.5,
+    "reviewCount": 412,
+    "duration": "2.5 hours",
+    "price": 25,
+    "currency": "OMR",
+    "provider": "Viator",
+    "affiliateUrl": "https://www.viator.com/tours/Muscat/PLACEHOLDER-AFFILIATE-LINK-dolphin-watching",
+    "image": "/images/experiences/dolphin-cruise-1.jpg",
+    "gallery": [
+      "/images/experiences/dolphin-cruise-1.jpg"
+    ],
+    "featured": false,
+    "bestOverall": false,
+    "bestBudget": true,
+    "bestFamily": true,
+    "bestPrivate": false,
+    "bestLuxury": false,
+    "isDemoData": true
+  },
+  {
+    "id": "exp-014",
+    "slug": "muscat-family-fun-pass",
+    "destination": "muscat",
+    "categories": [
+      "family",
+      "tours"
+    ],
+    "name": "Muscat Family Fun Day: Aquarium & Beach",
+    "shortDescription": "A relaxed family day combining a visit to a Muscat aquarium/attraction with beach time.",
+    "fullDescription": "A gentle, family-paced day designed around younger travelers, combining an indoor attraction visit with free time at one of Muscat's family-friendly beaches, with flexible timing and minimal walking.",
+    "highlights": [
+      "Indoor attraction suited to children",
+      "Free time at a family-friendly beach",
+      "Flexible, low-walking itinerary"
+    ],
+    "included": [
+      "Transport",
+      "Attraction entry ticket",
+      "Guide"
+    ],
+    "excluded": [
+      "Food and drinks",
+      "Beach equipment rental",
+      "Gratuities"
+    ],
+    "meetingPoint": "Hotel pickup from central Muscat.",
+    "cancellationPolicy": "Free cancellation up to 24 hours before the experience starts.",
+    "faq": [
+      {
+        "q": "What ages is this suitable for?",
+        "a": "Designed with families with children aged 3-12 in mind, though all ages are welcome."
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 203,
+    "duration": "6 hours",
+    "price": 40,
+    "currency": "OMR",
+    "provider": "GetYourGuide",
+    "affiliateUrl": "https://www.getyourguide.com/muscat-l162/PLACEHOLDER-AFFILIATE-LINK-family-fun",
+    "image": "/images/experiences/family-beach-1.jpg",
+    "gallery": [
+      "/images/experiences/family-beach-1.jpg"
+    ],
+    "featured": false,
+    "bestOverall": false,
+    "bestBudget": false,
+    "bestFamily": true,
+    "bestPrivate": false,
+    "bestLuxury": false,
+    "isDemoData": true
+  }
+]

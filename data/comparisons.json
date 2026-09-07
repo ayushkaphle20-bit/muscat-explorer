@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "best-wadi-shab-tours",
+    "title": "Best Wadi Shab Tours From Muscat",
+    "metaDescription": "Compare the best-rated Wadi Shab tours from Muscat, including full-day trips, small-group hikes and budget options — with prices, durations and what's included.",
+    "intro": "Wadi Shab is one of Oman's most iconic natural attractions, and there are several ways to visit it from Muscat — from combined full-day trips that also stop at Bimmah Sinkhole, to smaller-group hikes and budget shared tours. Here's how the main options compare.",
+    "experienceSlugs": ["wadi-shab-bimmah-sinkhole", "wadi-shab-small-group-hiking", "budget-wadi-shab-group-tour"]
+  },
+  {
+    "slug": "best-daymaniyat-islands-tours",
+    "title": "Best Daymaniyat Islands Snorkeling Tours",
+    "metaDescription": "Compare snorkeling and boat tours to the Daymaniyat Islands nature reserve near Muscat, from shared group trips to private charters.",
+    "intro": "The Daymaniyat Islands are a protected marine reserve known for coral reefs, turtles and clear water. You can visit as part of a shared group tour or book a private charter for more flexibility — here's how they compare.",
+    "experienceSlugs": ["daymaniyat-islands-snorkeling-cruise", "daymaniyat-islands-private-charter"]
+  },
+  {
+    "slug": "best-muscat-day-trips",
+    "title": "Best Day Trips From Muscat",
+    "metaDescription": "Compare the top day trips from Muscat, including Wadi Shab, Nizwa and Jebel Akhdar, with prices, durations and highlights.",
+    "intro": "Muscat makes an excellent base for day trips into Oman's wadis, mountains and historic towns. These are among the most popular full and half-day options leaving the city.",
+    "experienceSlugs": ["wadi-shab-bimmah-sinkhole", "nizwa-and-jebel-akhdar-day-trip", "mutrah-old-town-walking-tour"]
+  },
+  {
+    "slug": "best-desert-tours",
+    "title": "Best Desert Tours From Muscat",
+    "metaDescription": "Compare overnight and luxury desert camp tours to the Wahiba Sands from Muscat, including dune bashing and camping options.",
+    "intro": "An overnight stay in the Wahiba Sands is one of the most memorable experiences near Muscat. Options range from traditional shared Bedouin-style camps to private luxury tents.",
+    "experienceSlugs": ["wahiba-sands-overnight-desert-camp", "luxury-desert-camp-wahiba-sands"]
+  },
+  {
+    "slug": "best-nizwa-tours",
+    "title": "Best Nizwa Tours From Muscat",
+    "metaDescription": "Compare tours to Nizwa from Muscat, covering the historic fort, souk and surrounding Jebel Akhdar mountains.",
+    "intro": "Nizwa, Oman's former capital, is usually visited as part of a combined day trip that also covers the mountains of Jebel Akhdar. Here's a look at the main option available.",
+    "experienceSlugs": ["nizwa-and-jebel-akhdar-day-trip"]
+  }
+]

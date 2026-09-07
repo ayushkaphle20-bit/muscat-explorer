@@ -1,0 +1,8 @@
+[
+  { "id": "homepage-leaderboard", "location": "Homepage - below hero", "enabled": true, "adSenseSlotId": "" },
+  { "id": "homepage-in-feed", "location": "Homepage - between featured experiences and destinations", "enabled": true, "adSenseSlotId": "" },
+  { "id": "sidebar-desktop", "location": "Sidebar (desktop only) - category & blog pages", "enabled": true, "adSenseSlotId": "" },
+  { "id": "experience-grid-inline", "location": "Between experience cards (every 6 cards)", "enabled": true, "adSenseSlotId": "" },
+  { "id": "article-mid", "location": "Between blog article sections", "enabled": true, "adSenseSlotId": "" },
+  { "id": "article-bottom", "location": "Below blog article, above related articles", "enabled": true, "adSenseSlotId": "" }
+]

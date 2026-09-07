@@ -1,0 +1,92 @@
+@import "tailwindcss";
+
+@theme {
+  /* Color tokens — inspired by Muscat's sea, mountains and desert */
+  --color-ink: #17221f;
+  --color-ink-soft: #3c4642;
+  --color-sea: #123c3b;
+  --color-sea-light: #1c5654;
+  --color-sea-pale: #e4efee;
+  --color-sand: #f9f4ea;
+  --color-sand-deep: #efe4cf;
+  --color-clay: #bb5836;
+  --color-clay-dark: #9c4527;
+  --color-brass: #a3823c;
+  --color-brass-pale: #f1e6c9;
+  --color-line: #e4dcc9;
+
+  /* Editorial serif for display type, clean grotesk for body/UI.
+     Uses a wide-support system stack (no external font fetch required);
+     swap for self-hosted Fraunces/Public Sans files via next/font/local
+     once you have network access to download them — see README. */
+  --font-fraunces: Iowan Old Style, "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
+  --font-public-sans: -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-display: var(--font-fraunces);
+  --font-body: var(--font-public-sans);
+
+  --radius-arch: 999px 999px 12px 12px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-sand);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  letter-spacing: -0.01em;
+}
+
+::selection {
+  background: var(--color-clay);
+  color: var(--color-sand);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-clay);
+  outline-offset: 2px;
+}
+
+.arch {
+  border-radius: var(--radius-arch);
+}
+
+.container-page {
+  max-width: 84rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+@media (min-width: 768px) {
+  .container-page {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+  }
+}
+
+.prose-article p {
+  margin-bottom: 1.1em;
+  line-height: 1.75;
+}
+
+.prose-article h2 {
+  margin-top: 2em;
+  margin-bottom: 0.6em;
+  font-size: 1.5rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

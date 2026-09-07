@@ -1,0 +1,12 @@
+[
+  { "slug": "tours", "name": "Tours", "icon": "compass", "description": "Guided tours covering Muscat's top landmarks, history and culture with knowledgeable local guides." },
+  { "slug": "day-trips", "name": "Day Trips", "icon": "map", "description": "Full and half-day excursions from Muscat to nearby wadis, mountains and desert landscapes." },
+  { "slug": "water-activities", "name": "Beaches & Islands", "icon": "waves", "description": "Snorkeling, diving, dolphin watching and island-hopping along Oman's turquoise coastline." },
+  { "slug": "desert-tours", "name": "Desert", "icon": "sun", "description": "Dune bashing, overnight camps and desert safaris into Oman's dramatic sand seas." },
+  { "slug": "adventure", "name": "Adventure", "icon": "mountain", "description": "Canyoning, via ferrata, hiking and off-road adventures in Oman's mountains and wadis." },
+  { "slug": "culture", "name": "Culture", "icon": "landmark", "description": "Mosques, forts, museums and old souks that tell the story of Omani heritage." },
+  { "slug": "food", "name": "Food", "icon": "utensils", "description": "Food tours, cooking classes and culinary experiences showcasing Omani cuisine." },
+  { "slug": "family", "name": "Family", "icon": "users", "description": "Family-friendly attractions and activities suitable for travelers of all ages." },
+  { "slug": "cruises", "name": "Cruises", "icon": "ship", "description": "Dhow cruises, sunset sailing and boat trips along the Muscat coastline." },
+  { "slug": "wildlife", "name": "Wildlife", "icon": "fish", "description": "Turtle watching, dolphin spotting and marine wildlife encounters near Muscat." }
+]

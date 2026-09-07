@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "muscat",
+    "name": "Muscat",
+    "country": "Oman",
+    "active": true,
+    "heroImage": "/images/destinations/muscat-hero.jpg",
+    "shortDescription": "Oman's coastal capital, where mountains meet the sea and centuries-old souks sit beside modern marinas.",
+    "currency": "OMR",
+    "timezone": "Asia/Muscat"
+  },
+  {
+    "slug": "almaty",
+    "name": "Almaty",
+    "country": "Kazakhstan",
+    "active": false,
+    "heroImage": "/images/destinations/almaty-hero.jpg",
+    "shortDescription": "Coming soon — gateway to the Tian Shan mountains.",
+    "currency": "KZT",
+    "timezone": "Asia/Almaty"
+  },
+  {
+    "slug": "sarajevo",
+    "name": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "active": false,
+    "heroImage": "/images/destinations/sarajevo-hero.jpg",
+    "shortDescription": "Coming soon — where East meets West in the Balkans.",
+    "currency": "BAM",
+    "timezone": "Europe/Sarajevo"
+  }
+]
