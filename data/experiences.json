@@ -104,13 +104,13 @@
       }
     ],
     "rating": 4.9,
-    "reviewCount": 356,
+    "reviewCount": 91,
     "duration": "8 hours",
-    "price": 62,
-    "currency": "OMR",
-    "provider": "Viator",
-    "affiliateUrl": "https://www.viator.com/tours/Muscat/PLACEHOLDER-AFFILIATE-LINK-wadi-shab-small-group",
-    "image": "/images/experiences/wadi-shab-2.jpg",
+    "price": 30,
+    "currency": "USD",
+    "provider": "GetYourGuide",
+    "affiliateUrl": "https://gyg.me/wsElzHlo",
+    "image": "/images/experiences/wadi-shab-1.jpg",
     "gallery": [
       "/images/experiences/wadi-shab-2.jpg",
       "/images/experiences/wadi-shab-1.jpg"
@@ -556,13 +556,13 @@
         "a": "Around 3-4 km at a relaxed pace over flat terrain."
       }
     ],
-    "rating": 4.8,
-    "reviewCount": 289,
+    "rating": 5,
+    "reviewCount": 14,
     "duration": "3 hours",
-    "price": 25,
-    "currency": "OMR",
+    "price": 20,
+    "currency": "USD",
     "provider": "GetYourGuide",
-    "affiliateUrl": "https://www.getyourguide.com/muscat-l162/PLACEHOLDER-AFFILIATE-LINK-mutrah-walking",
+    "affiliateUrl": "https://www.getyourguide.com/muscat-l233/muscat-guided-walking-tour-of-corniche-souq-mutrah-fort-t999084/?partner_id=GGZJMYW&utm_medium=online_publisher",
     "image": "/images/experiences/mutrah-souk-1.jpg",
     "gallery": [
       "/images/experiences/mutrah-souk-1.jpg"
@@ -609,13 +609,13 @@
         "a": "Vegetarian options are usually available; contact the host in advance for other dietary needs."
       }
     ],
-    "rating": 4.9,
-    "reviewCount": 176,
+    "rating": 5,
+    "reviewCount": 73,
     "duration": "3.5 hours",
-    "price": 38,
-    "currency": "OMR",
-    "provider": "Viator",
-    "affiliateUrl": "https://www.viator.com/tours/Muscat/PLACEHOLDER-AFFILIATE-LINK-cooking-class",
+    "price": 70,
+    "currency": "USD",
+    "provider": "GetYourGuide",
+    "affiliateUrl": "https://www.getyourguide.com/muscat-l233/muscat-omani-food-tour-with-shuwa-halwa-t997641/?partner_id=GGZJMYW&utm_medium=online_publisher",
     "image": "/images/experiences/omani-food-1.jpg",
     "gallery": [
       "/images/experiences/omani-food-1.jpg"
@@ -662,13 +662,13 @@
         "a": "Yes, the cruise is calm and family-friendly, though life jackets should be worn by young children."
       }
     ],
-    "rating": 4.7,
-    "reviewCount": 845,
+    "rating": 4.6,
+    "reviewCount": 212,
     "duration": "2 hours",
-    "price": 22,
-    "currency": "OMR",
+    "price": 40,
+    "currency": "USD",
     "provider": "GetYourGuide",
-    "affiliateUrl": "https://www.getyourguide.com/muscat-l162/PLACEHOLDER-AFFILIATE-LINK-sunset-dhow",
+    "affiliateUrl": "https://www.getyourguide.com/muscat-l233/muscat-omani-dhow-coastal-and-sunset-cruise-2-hours-t544609/?partner_id=GGZJMYW&utm_medium=online_publisher",
     "image": "/images/experiences/dhow-cruise-1.jpg",
     "gallery": [
       "/images/experiences/dhow-cruise-1.jpg"
@@ -717,12 +717,12 @@
       }
     ],
     "rating": 4.5,
-    "reviewCount": 412,
+    "reviewCount": 227,
     "duration": "2.5 hours",
-    "price": 25,
-    "currency": "OMR",
-    "provider": "Viator",
-    "affiliateUrl": "https://www.viator.com/tours/Muscat/PLACEHOLDER-AFFILIATE-LINK-dolphin-watching",
+    "price": 90,
+    "currency": "USD",
+    "provider": "GetYourGuide",
+    "affiliateUrl": "https://www.getyourguide.com/muscat-l233/muscat-dolphin-watching-and-snorkeling-tour-t177027/?partner_id=GGZJMYW&utm_medium=online_publisher",
     "image": "/images/experiences/dolphin-cruise-1.jpg",
     "gallery": [
       "/images/experiences/dolphin-cruise-1.jpg"
