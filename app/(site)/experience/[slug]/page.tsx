@@ -79,6 +79,7 @@ export default async function ExperiencePage({
         <PlaceholderImage
           seed={exp.slug}
           label={exp.name}
+          src={exp.image}
           aspect="aspect-[16/9] md:aspect-[21/9]"
           className="w-full"
         />
@@ -222,7 +223,6 @@ export default async function ExperiencePage({
           </aside>
         </div>
 
-        {/* Mobile sticky CTA specific to this experience */}
         <div className="md:hidden fixed bottom-0 inset-x-0 z-40 border-t border-[var(--color-line)] bg-white/95 backdrop-blur px-4 py-3 flex items-center gap-3">
           <div className="flex-1">
             <span className="text-[11px] text-[var(--color-ink-soft)]">From</span>

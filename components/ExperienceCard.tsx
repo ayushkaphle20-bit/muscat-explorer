@@ -28,6 +28,7 @@ export default function ExperienceCard({
         <PlaceholderImage
           seed={experience.slug}
           label={experience.name}
+          src={experience.image}
           className="rounded-t-2xl"
         />
         {badgeKey && (
@@ -59,7 +60,6 @@ export default function ExperienceCard({
             View Experience
           </span>
         </div>
-      </div>
     </Link>
   );
 }

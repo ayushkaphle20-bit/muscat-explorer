@@ -1,7 +1,6 @@
-// Generates a deterministic, on-brand SVG placeholder so the site never ships
-// with real photography we don't hold rights to. Swap for real photos/CDN
-// URLs by replacing usages of this component with next/image once licensed
-// imagery or a provider's media feed (GetYourGuide/Viator) is connected.
+"use client";
+
+import { useState } from "react";
 
 const PALETTES = [
   ["#123C3B", "#1C5654"],
@@ -23,14 +22,32 @@ function hashSeed(seed: string): number {
 export default function PlaceholderImage({
   seed,
   label,
+  src,
   className = "",
   aspect = "aspect-[4/3]",
 }: {
   seed: string;
   label?: string;
+  src?: string;
   className?: string;
   aspect?: string;
 }) {
+  const [imgFailed, setImgFailed] = useState(false);
+
+  if (src && !imgFailed) {
+    return (
+      <div className={`relative overflow-hidden ${aspect} ${className}`}>
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src={src}
+          alt={label || "Muscat Explorer photo"}
+          className="absolute inset-0 h-full w-full object-cover"
+          onError={() => setImgFailed(true)}
+        />
+      </div>
+    );
+  }
+
   const idx = hashSeed(seed) % PALETTES.length;
   const [c1, c2] = PALETTES[idx];
   const gradId = `g-${hashSeed(seed)}`;
@@ -51,15 +68,8 @@ export default function PlaceholderImage({
           </linearGradient>
         </defs>
         <rect width="400" height="300" fill={`url(#${gradId})`} />
-        {/* dune / mountain silhouette motif */}
-        <path
-          d="M0 230 Q60 180 130 210 T260 200 T400 220 V300 H0 Z"
-          fill="rgba(0,0,0,0.15)"
-        />
-        <path
-          d="M0 260 Q80 220 180 245 T400 250 V300 H0 Z"
-          fill="rgba(0,0,0,0.18)"
-        />
+        <path d="M0 230 Q60 180 130 210 T260 200 T400 220 V300 H0 Z" fill="rgba(0,0,0,0.15)" />
+        <path d="M0 260 Q80 220 180 245 T400 250 V300 H0 Z" fill="rgba(0,0,0,0.18)" />
         <circle cx="330" cy="70" r="26" fill="rgba(255,255,255,0.18)" />
       </svg>
       <div className="absolute inset-0 flex items-end p-3">
