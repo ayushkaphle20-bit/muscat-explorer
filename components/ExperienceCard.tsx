@@ -60,6 +60,7 @@ export default function ExperienceCard({
             View Experience
           </span>
         </div>
+      </div>
     </Link>
   );
 }
