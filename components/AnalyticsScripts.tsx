@@ -10,7 +10,7 @@ export default function AnalyticsScripts({
 }) {
   return (
     <>
-      {/* Google Tag Manager — set NEXT_PUBLIC or data/siteConfig.json integrations.googleTagManagerId to enable */}
+      {/* Google Tag Manager — set integrations.googleTagManagerId in data/siteConfig.json to enable */}
       {config.googleTagManagerId && (
         <Script id="gtm-script" strategy="afterInteractive">
           {`
@@ -41,15 +41,10 @@ export default function AnalyticsScripts({
         </>
       )}
 
-      {/* Google AdSense — set integrations.adSenseClientId in data/siteConfig.json to enable */}
-      {config.adSenseClientId && (
-        <Script
-          async
-          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${config.adSenseClientId}`}
-          crossOrigin="anonymous"
-          strategy="afterInteractive"
-        />
-      )}
+      {/* Note: the Google AdSense script itself is rendered server-side in
+          app/layout.tsx <head> (not here) so it's present in the raw HTML
+          immediately for AdSense's site-verification crawler to find,
+          rather than being injected client-side after hydration. */}
     </>
   );
 }
