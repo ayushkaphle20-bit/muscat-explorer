@@ -156,13 +156,13 @@
         "a": "This option includes transport only; a dedicated walking guide is not included."
       }
     ],
-    "rating": 4.3,
-    "reviewCount": 512,
+    "rating": 5,
+    "reviewCount": 257,
     "duration": "7 hours",
-    "price": 28,
-    "currency": "OMR",
-    "provider": "GetYourGuide",
-    "affiliateUrl": "https://www.getyourguide.com/muscat-l162/PLACEHOLDER-AFFILIATE-LINK-wadi-shab-budget",
+    "price": 70,
+    "currency": "USD",
+    "provider": "Viator",
+    "affiliateUrl": "https://www.viator.com/tours/Muscat/Wadi-Shab-and-Bimmah-Sinkhole-Full-Day-Tour/d4389-129578P1?pid=P00318974&mcid=42383&medium=link",
     "image": "/images/experiences/wadi-shab-1.jpg",
     "gallery": [
       "/images/experiences/wadi-shab-1.jpg"
@@ -271,14 +271,14 @@
         "a": "Boats typically accommodate up to 8-10 guests; larger groups can request a bigger vessel."
       }
     ],
-    "rating": 4.9,
-    "reviewCount": 142,
+    "rating": 5,
+    "reviewCount": 13,
     "duration": "5 hours",
-    "price": 180,
-    "currency": "OMR",
-    "provider": "GetYourGuide",
-    "affiliateUrl": "https://www.getyourguide.com/muscat-l162/PLACEHOLDER-AFFILIATE-LINK-daymaniyat-private",
-    "image": "/images/experiences/daymaniyat-2.jpg",
+    "price": 1911.2,
+    "currency": "USD",
+    "provider": "Viator",
+    "affiliateUrl": "https://www.viator.com/tours/Muscat/Arabic/d4389-101865P17?pid=P00318974&mcid=42383&medium=link",
+    "image": "/images/experiences/daymaniyat-1.jpg",
     "gallery": [
       "/images/experiences/daymaniyat-2.jpg"
     ],
@@ -441,14 +441,14 @@
         "a": "This option offers private en-suite facilities and a smaller camp, compared to shared facilities in the standard overnight camp."
       }
     ],
-    "rating": 4.9,
-    "reviewCount": 98,
+    "rating": 5,
+    "reviewCount": 63,
     "duration": "22 hours (overnight)",
-    "price": 245,
-    "currency": "OMR",
-    "provider": "GetYourGuide",
-    "affiliateUrl": "https://www.getyourguide.com/muscat-l162/PLACEHOLDER-AFFILIATE-LINK-luxury-desert-camp",
-    "image": "/images/experiences/wahiba-sands-2.jpg",
+    "price": 545,
+    "currency": "USD",
+    "provider": "Viator",
+    "affiliateUrl": "https://www.viator.com/tours/Muscat/Overnight-Wahiba-Sands-Desert/d4389-324718P3?pid=P00318974&mcid=42383&medium=link",
+    "image": "/images/experiences/wahiba-sands-1.jpg",
     "gallery": [
       "/images/experiences/wahiba-sands-2.jpg"
     ],
@@ -737,14 +737,14 @@
   },
   {
     "id": "exp-014",
-    "slug": "muscat-family-fun-pass",
+    "slug": "omani-family-dinner-experience",
     "destination": "muscat",
     "categories": [
       "family",
       "tours"
     ],
-    "name": "Muscat Family Fun Day: Aquarium & Beach",
-    "shortDescription": "A relaxed family day combining a visit to a Muscat aquarium/attraction with beach time.",
+    "name": "Omani Family Dinner Experience",
+    "shortDescription": "Share a home-style Omani dinner with a local family, including private transfer — a warm, authentic evening for all ages.",
     "fullDescription": "A gentle, family-paced day designed around younger travelers, combining an indoor attraction visit with free time at one of Muscat's family-friendly beaches, with flexible timing and minimal walking.",
     "highlights": [
       "Indoor attraction suited to children",
@@ -769,14 +769,14 @@
         "a": "Designed with families with children aged 3-12 in mind, though all ages are welcome."
       }
     ],
-    "rating": 4.6,
-    "reviewCount": 203,
+    "rating": 5,
+    "reviewCount": 7,
     "duration": "6 hours",
-    "price": 40,
-    "currency": "OMR",
+    "price": 60,
+    "currency": "USD",
     "provider": "GetYourGuide",
-    "affiliateUrl": "https://www.getyourguide.com/muscat-l162/PLACEHOLDER-AFFILIATE-LINK-family-fun",
-    "image": "/images/experiences/family-beach-1.jpg",
+    "affiliateUrl": "https://www.getyourguide.com/muscat-l233/muscat-dinner-with-omani-family-with-private-transfer-t1293358/?partner_id=GGZJMYW&utm_medium=online_publisher",
+    "image": "/images/experiences/omani-family-dinner-1.jpg",
     "gallery": [
       "/images/experiences/family-beach-1.jpg"
     ],
