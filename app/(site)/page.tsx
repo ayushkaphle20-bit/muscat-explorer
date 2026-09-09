@@ -8,14 +8,14 @@ import AdSlot from "@/components/AdSlot";
 import { getCategories, getFeaturedExperiences } from "@/lib/data";
 
 const destinationsSpotlight = [
-  { name: "Wadi Shab", note: "Turquoise pools & canyon hike", slug: "wadi-shab" },
-  { name: "Daymaniyat Islands", note: "Snorkeling nature reserve", slug: "daymaniyat-islands" },
-  { name: "Nizwa", note: "Historic fort & souk", slug: "nizwa" },
-  { name: "Jebel Akhdar", note: "Terraced 'Green Mountain'", slug: "jebel-akhdar" },
-  { name: "Wahiba Sands", note: "Desert dunes & camps", slug: "wahiba-sands" },
-  { name: "Bimmah Sinkhole", note: "Natural limestone crater", slug: "bimmah-sinkhole" },
-  { name: "Muscat Old Town", note: "Palace, forts & gates", slug: "muscat-old-town" },
-  { name: "Mutrah", note: "Souk & corniche", slug: "mutrah" },
+  { name: "Wadi Shab", note: "Turquoise pools & canyon hike", slug: "wadi-shab", image: "/images/experiences/wadi-shab-1.jpg" },
+  { name: "Daymaniyat Islands", note: "Snorkeling nature reserve", slug: "daymaniyat-islands", image: "/images/experiences/daymaniyat-1.jpg" },
+  { name: "Nizwa", note: "Historic fort & souk", slug: "nizwa", image: "/images/experiences/nizwa-1.jpg" },
+  { name: "Jebel Akhdar", note: "Terraced 'Green Mountain'", slug: "jebel-akhdar", image: "/images/experiences/nizwa-1.jpg" },
+  { name: "Wahiba Sands", note: "Desert dunes & camps", slug: "wahiba-sands", image: "/images/experiences/wahiba-sands-1.jpg" },
+  { name: "Bimmah Sinkhole", note: "Natural limestone crater", slug: "bimmah-sinkhole", image: "/images/experiences/wadi-shab-1.jpg" },
+  { name: "Muscat Old Town", note: "Palace, forts & gates", slug: "muscat-old-town", image: "/images/experiences/muscat-city-1.jpg" },
+  { name: "Mutrah", note: "Souk & corniche", slug: "mutrah", image: "/images/experiences/mutrah-souk-1.jpg" },
 ];
 
 const whyPoints = [
@@ -163,7 +163,7 @@ export default function HomePage() {
                 key={d.slug}
                 className="overflow-hidden rounded-2xl border border-[var(--color-line)] bg-white"
               >
-                <PlaceholderImage seed={d.slug} label={d.name} aspect="aspect-[5/4]" />
+                <PlaceholderImage seed={d.slug} label={d.name} src={d.image} aspect="aspect-[5/4]" />
                 <div className="p-4">
                   <h3 className="font-[family-name:var(--font-fraunces)] text-base text-[var(--color-ink)]">
                     {d.name}
