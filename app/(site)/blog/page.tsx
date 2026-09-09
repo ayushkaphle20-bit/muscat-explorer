@@ -34,7 +34,7 @@ export default function BlogIndexPage() {
             href={`/blog/${post.slug}`}
             className="group overflow-hidden rounded-2xl border border-[var(--color-line)] bg-white hover:shadow-[0_8px_28px_-12px_rgba(23,34,31,0.25)] transition-shadow"
           >
-            <PlaceholderImage seed={post.slug} label={post.title} aspect="aspect-[16/9]" />
+            <PlaceholderImage seed={post.slug} label={post.title} src={post.image} aspect="aspect-[16/9]" />
             <div className="p-5">
               <p className="text-xs text-[var(--color-ink-soft)] mb-2">
                 {new Date(post.date).toLocaleDateString("en-US", {

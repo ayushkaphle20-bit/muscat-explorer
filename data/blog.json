@@ -6,23 +6,58 @@
     "metaDescription": "From the Grand Mosque to Wadi Shab, here's a complete guide to the best things to do in Muscat, organized by interest, so you can plan your trip with confidence.",
     "author": "Muscat Explorer Editorial Team",
     "date": "2026-01-15",
-    "image": "/images/blog/muscat-things-to-do.jpg",
+    "image": "/images/experiences/muscat-things-to-do.jpg",
     "excerpt": "A complete, organized guide to Muscat's top attractions, day trips and experiences — from cultural landmarks to desert adventures.",
     "sections": [
-      { "heading": "Getting oriented in Muscat", "content": "Muscat sprawls along Oman's northern coast in a series of distinct districts rather than one compact center. Mutrah is home to the old souk, corniche and harbor; Old Muscat holds the Sultan's palace and coastal forts; and the newer districts around Qurum and Al Khuwair have the marinas, malls and beach parks. Most visitors base themselves somewhere central and use taxis, ride-hailing apps or organized tours to cover the rest, since distances between districts are often too far to walk." },
-      { "heading": "Cultural landmarks worth prioritizing", "content": "The Sultan Qaboos Grand Mosque is the city's most visited landmark, notable for its hand-knotted carpet and enormous chandelier in the main prayer hall, and is open to non-Muslim visitors on specified mornings with a modest dress code. The Royal Opera House Muscat hosts touring international performances in a building that blends contemporary design with traditional Omani stonework. In Old Muscat, Al Alam Palace and the twin hilltop forts of Mirani and Jalali make for a scenic, if mostly exterior-only, stop." },
-      { "heading": "Mutrah Souk and the Corniche", "content": "One of the oldest marketplaces in the Arabian Peninsula, Mutrah Souk is a warren of covered lanes selling frankincense, textiles, silver and souvenirs. It's busiest — and most atmospheric — in the early evening. A stroll along the adjacent Corniche, with the harbor on one side and mountains rising behind the old townhouses on the other, is one of the simplest and most rewarding free things to do in the city." },
-      { "heading": "Day trips beyond the city", "content": "Some of Muscat's best experiences are technically outside city limits. Wadi Shab, roughly a 90-minute drive south, offers a hike and swim through a canyon of turquoise pools. Nizwa and Jebel Akhdar combine a historic fort and souk with a scenic drive up into terraced mountain villages. Both are typically visited as full-day guided trips, since public transport options are limited and driving requires some local knowledge (a 4x4 for Jebel Akhdar in particular)." },
-      { "heading": "Beaches, islands and the sea", "content": "Muscat's relationship with the sea is central to the city's appeal. The Daymaniyat Islands, a protected marine reserve about an hour offshore, offer some of the best snorkeling in the Gulf of Oman. Closer to the city, sunset dhow cruises and dolphin-watching trips depart regularly from the marinas, and several beach clubs and public beaches are popular for a relaxed afternoon." },
-      { "heading": "How to plan your time", "content": "For a short stay of two to three days, it's worth splitting time between a city-focused day (mosque, souk, corniche) and at least one full-day trip outside Muscat, since the coastal wadis and desert landscapes are a major part of what draws visitors to Oman in the first place. See our related guides below for tour comparisons on each of these experiences." }
+      {
+        "heading": "Getting oriented in Muscat",
+        "content": "Muscat sprawls along Oman's northern coast in a series of distinct districts rather than one compact center. Mutrah is home to the old souk, corniche and harbor; Old Muscat holds the Sultan's palace and coastal forts; and the newer districts around Qurum and Al Khuwair have the marinas, malls and beach parks. Most visitors base themselves somewhere central and use taxis, ride-hailing apps or organized tours to cover the rest, since distances between districts are often too far to walk."
+      },
+      {
+        "heading": "Cultural landmarks worth prioritizing",
+        "content": "The Sultan Qaboos Grand Mosque is the city's most visited landmark, notable for its hand-knotted carpet and enormous chandelier in the main prayer hall, and is open to non-Muslim visitors on specified mornings with a modest dress code. The Royal Opera House Muscat hosts touring international performances in a building that blends contemporary design with traditional Omani stonework. In Old Muscat, Al Alam Palace and the twin hilltop forts of Mirani and Jalali make for a scenic, if mostly exterior-only, stop."
+      },
+      {
+        "heading": "Mutrah Souk and the Corniche",
+        "content": "One of the oldest marketplaces in the Arabian Peninsula, Mutrah Souk is a warren of covered lanes selling frankincense, textiles, silver and souvenirs. It's busiest — and most atmospheric — in the early evening. A stroll along the adjacent Corniche, with the harbor on one side and mountains rising behind the old townhouses on the other, is one of the simplest and most rewarding free things to do in the city."
+      },
+      {
+        "heading": "Day trips beyond the city",
+        "content": "Some of Muscat's best experiences are technically outside city limits. Wadi Shab, roughly a 90-minute drive south, offers a hike and swim through a canyon of turquoise pools. Nizwa and Jebel Akhdar combine a historic fort and souk with a scenic drive up into terraced mountain villages. Both are typically visited as full-day guided trips, since public transport options are limited and driving requires some local knowledge (a 4x4 for Jebel Akhdar in particular)."
+      },
+      {
+        "heading": "Beaches, islands and the sea",
+        "content": "Muscat's relationship with the sea is central to the city's appeal. The Daymaniyat Islands, a protected marine reserve about an hour offshore, offer some of the best snorkeling in the Gulf of Oman. Closer to the city, sunset dhow cruises and dolphin-watching trips depart regularly from the marinas, and several beach clubs and public beaches are popular for a relaxed afternoon."
+      },
+      {
+        "heading": "How to plan your time",
+        "content": "For a short stay of two to three days, it's worth splitting time between a city-focused day (mosque, souk, corniche) and at least one full-day trip outside Muscat, since the coastal wadis and desert landscapes are a major part of what draws visitors to Oman in the first place. See our related guides below for tour comparisons on each of these experiences."
+      }
     ],
     "faq": [
-      { "q": "How many days do I need in Muscat?", "a": "Most visitors spend two to four days in Muscat itself, often combined with additional day trips or an overnight desert stay." },
-      { "q": "Is Muscat walkable?", "a": "Individual districts like Mutrah and the Corniche are walkable, but the city as a whole is spread out, so taxis, ride-hailing apps or organized tours are the practical way to get between areas." },
-      { "q": "What's the best time of year to visit?", "a": "The cooler months from October to April are generally more comfortable for outdoor activities like hiking and desert trips." }
+      {
+        "q": "How many days do I need in Muscat?",
+        "a": "Most visitors spend two to four days in Muscat itself, often combined with additional day trips or an overnight desert stay."
+      },
+      {
+        "q": "Is Muscat walkable?",
+        "a": "Individual districts like Mutrah and the Corniche are walkable, but the city as a whole is spread out, so taxis, ride-hailing apps or organized tours are the practical way to get between areas."
+      },
+      {
+        "q": "What's the best time of year to visit?",
+        "a": "The cooler months from October to April are generally more comfortable for outdoor activities like hiking and desert trips."
+      }
     ],
-    "relatedSlugs": ["best-wadi-shab-tours-from-muscat", "muscat-3-day-itinerary", "free-things-to-do-in-muscat"],
-    "internalCategoryLinks": ["tours", "day-trips", "culture"]
+    "relatedSlugs": [
+      "best-wadi-shab-tours-from-muscat",
+      "muscat-3-day-itinerary",
+      "free-things-to-do-in-muscat"
+    ],
+    "internalCategoryLinks": [
+      "tours",
+      "day-trips",
+      "culture"
+    ]
   },
   {
     "slug": "best-wadi-shab-tours-from-muscat",
@@ -31,21 +66,49 @@
     "metaDescription": "Comparing the best Wadi Shab tours from Muscat — full-day combined trips, small-group hikes and budget options — with what to expect from each.",
     "author": "Muscat Explorer Editorial Team",
     "date": "2026-01-18",
-    "image": "/images/blog/wadi-shab-guide.jpg",
+    "image": "/images/experiences/wadi-shab-1.jpg",
     "excerpt": "Everything you need to know before booking a Wadi Shab tour, plus a side-by-side look at the main options from Muscat.",
     "sections": [
-      { "heading": "What makes Wadi Shab special", "content": "Wadi Shab is a narrow limestone canyon roughly 90 minutes south of Muscat, reached by a short boat crossing followed by a walk along a path that hugs a series of turquoise pools. Deeper into the canyon, a narrow swim through a rock channel leads to a partially submerged cave with a small waterfall — a highlight for visitors comfortable in the water." },
-      { "heading": "What to expect on a typical tour", "content": "Most Wadi Shab tours are sold as full-day trips from Muscat, often combined with a stop at nearby Bimmah Sinkhole, a collapsed limestone crater filled with blue-green water. Tours typically include hotel pickup, air-conditioned transport and a guide, with a few hours of free time to hike and swim at the wadi itself." },
-      { "heading": "Choosing between tour types", "content": "Full-day combined tours (Wadi Shab plus Bimmah Sinkhole) suit first-time visitors who want to see both highlights in one trip. Small-group hiking tours, capped at a lower number of participants, are worth the extra cost for travelers who want more time in the canyon and a quieter experience. Budget shared-group options are the most affordable but typically come without a dedicated walking guide." },
-      { "heading": "Practical tips", "content": "Water shoes are strongly recommended, since the rocky path and pools can be uncomfortable in bare feet or sandals. Bring a dry bag or waterproof phone case if you plan to swim to the cave, and check current water levels before your trip, since the cave swim isn't always accessible depending on the season." }
+      {
+        "heading": "What makes Wadi Shab special",
+        "content": "Wadi Shab is a narrow limestone canyon roughly 90 minutes south of Muscat, reached by a short boat crossing followed by a walk along a path that hugs a series of turquoise pools. Deeper into the canyon, a narrow swim through a rock channel leads to a partially submerged cave with a small waterfall — a highlight for visitors comfortable in the water."
+      },
+      {
+        "heading": "What to expect on a typical tour",
+        "content": "Most Wadi Shab tours are sold as full-day trips from Muscat, often combined with a stop at nearby Bimmah Sinkhole, a collapsed limestone crater filled with blue-green water. Tours typically include hotel pickup, air-conditioned transport and a guide, with a few hours of free time to hike and swim at the wadi itself."
+      },
+      {
+        "heading": "Choosing between tour types",
+        "content": "Full-day combined tours (Wadi Shab plus Bimmah Sinkhole) suit first-time visitors who want to see both highlights in one trip. Small-group hiking tours, capped at a lower number of participants, are worth the extra cost for travelers who want more time in the canyon and a quieter experience. Budget shared-group options are the most affordable but typically come without a dedicated walking guide."
+      },
+      {
+        "heading": "Practical tips",
+        "content": "Water shoes are strongly recommended, since the rocky path and pools can be uncomfortable in bare feet or sandals. Bring a dry bag or waterproof phone case if you plan to swim to the cave, and check current water levels before your trip, since the cave swim isn't always accessible depending on the season."
+      }
     ],
     "faq": [
-      { "q": "Do I need to know how to swim?", "a": "Basic swimming ability is recommended if you want to reach the cave waterfall, though the main pools can be enjoyed without swimming the full distance." },
-      { "q": "How difficult is the hike?", "a": "The path involves uneven, rocky terrain and some scrambling; a moderate fitness level is recommended." },
-      { "q": "Can I visit Wadi Shab without a tour?", "a": "It's possible to drive yourself, but many visitors prefer an organized tour for the convenience of transport and local guidance, especially on a first visit." }
+      {
+        "q": "Do I need to know how to swim?",
+        "a": "Basic swimming ability is recommended if you want to reach the cave waterfall, though the main pools can be enjoyed without swimming the full distance."
+      },
+      {
+        "q": "How difficult is the hike?",
+        "a": "The path involves uneven, rocky terrain and some scrambling; a moderate fitness level is recommended."
+      },
+      {
+        "q": "Can I visit Wadi Shab without a tour?",
+        "a": "It's possible to drive yourself, but many visitors prefer an organized tour for the convenience of transport and local guidance, especially on a first visit."
+      }
     ],
-    "relatedSlugs": ["best-daymaniyat-islands-snorkeling-tours", "best-muscat-day-trips", "muscat-3-day-itinerary"],
-    "internalCategoryLinks": ["day-trips", "water-activities"],
+    "relatedSlugs": [
+      "best-daymaniyat-islands-snorkeling-tours",
+      "best-muscat-day-trips",
+      "muscat-3-day-itinerary"
+    ],
+    "internalCategoryLinks": [
+      "day-trips",
+      "water-activities"
+    ],
     "comparisonSlug": "best-wadi-shab-tours"
   },
   {
@@ -55,21 +118,49 @@
     "metaDescription": "A guide to visiting the Daymaniyat Islands nature reserve from Muscat, with a comparison of shared-group and private boat tour options.",
     "author": "Muscat Explorer Editorial Team",
     "date": "2026-01-20",
-    "image": "/images/blog/daymaniyat-guide.jpg",
+    "image": "/images/experiences/daymaniyat-1.jpg",
     "excerpt": "What to know before booking a snorkeling trip to the Daymaniyat Islands, plus how the main tour options compare.",
     "sections": [
-      { "heading": "About the Daymaniyat Islands", "content": "The Daymaniyat Islands are a chain of nine small islands roughly an hour by boat from Muscat's marinas, protected as a nature reserve for their coral reefs and nesting turtles. The reserve is generally closed to visitors for part of the year during turtle nesting season, so it's worth checking current access dates before planning a trip." },
-      { "heading": "What the snorkeling is like", "content": "Visibility and marine life vary by season and site, but the islands are known for coral reef patches, reef fish and regular turtle sightings, with occasional dolphin encounters en route. Most tours make two to three stops at different snorkeling sites around the islands." },
-      { "heading": "Shared tours vs private charters", "content": "Shared-group boat trips are the most common and affordable way to visit, typically including lunch and snorkeling gear. Private charters cost significantly more but offer a flexible schedule, a boat to yourself or your group, and the option to linger longer at a favorite site — worth considering for families or small groups wanting more control over the day." },
-      { "heading": "What to bring", "content": "Reef-safe sunscreen is worth prioritizing given the marine reserve status, along with a rash guard for sun protection during long snorkeling stops, and a dry bag for phones and valuables." }
+      {
+        "heading": "About the Daymaniyat Islands",
+        "content": "The Daymaniyat Islands are a chain of nine small islands roughly an hour by boat from Muscat's marinas, protected as a nature reserve for their coral reefs and nesting turtles. The reserve is generally closed to visitors for part of the year during turtle nesting season, so it's worth checking current access dates before planning a trip."
+      },
+      {
+        "heading": "What the snorkeling is like",
+        "content": "Visibility and marine life vary by season and site, but the islands are known for coral reef patches, reef fish and regular turtle sightings, with occasional dolphin encounters en route. Most tours make two to three stops at different snorkeling sites around the islands."
+      },
+      {
+        "heading": "Shared tours vs private charters",
+        "content": "Shared-group boat trips are the most common and affordable way to visit, typically including lunch and snorkeling gear. Private charters cost significantly more but offer a flexible schedule, a boat to yourself or your group, and the option to linger longer at a favorite site — worth considering for families or small groups wanting more control over the day."
+      },
+      {
+        "heading": "What to bring",
+        "content": "Reef-safe sunscreen is worth prioritizing given the marine reserve status, along with a rash guard for sun protection during long snorkeling stops, and a dry bag for phones and valuables."
+      }
     ],
     "faq": [
-      { "q": "Is the reserve open all year?", "a": "No — the Daymaniyat Islands typically close to visitors for part of the year during turtle nesting season, so check current dates before booking." },
-      { "q": "Are turtle sightings guaranteed?", "a": "Sightings are common but not guaranteed, since these are wild animals in their natural habitat." },
-      { "q": "How rough is the boat crossing?", "a": "Conditions vary by season; calmer winter months generally offer a smoother crossing than summer." }
+      {
+        "q": "Is the reserve open all year?",
+        "a": "No — the Daymaniyat Islands typically close to visitors for part of the year during turtle nesting season, so check current dates before booking."
+      },
+      {
+        "q": "Are turtle sightings guaranteed?",
+        "a": "Sightings are common but not guaranteed, since these are wild animals in their natural habitat."
+      },
+      {
+        "q": "How rough is the boat crossing?",
+        "a": "Conditions vary by season; calmer winter months generally offer a smoother crossing than summer."
+      }
     ],
-    "relatedSlugs": ["best-wadi-shab-tours-from-muscat", "best-muscat-day-trips"],
-    "internalCategoryLinks": ["water-activities", "wildlife", "cruises"],
+    "relatedSlugs": [
+      "best-wadi-shab-tours-from-muscat",
+      "best-muscat-day-trips"
+    ],
+    "internalCategoryLinks": [
+      "water-activities",
+      "wildlife",
+      "cruises"
+    ],
     "comparisonSlug": "best-daymaniyat-islands-tours"
   },
   {
@@ -79,20 +170,44 @@
     "metaDescription": "The best day trips from Muscat, including Wadi Shab, Nizwa, Jebel Akhdar and Mutrah, with what to expect from each.",
     "author": "Muscat Explorer Editorial Team",
     "date": "2026-01-22",
-    "image": "/images/blog/muscat-day-trips.jpg",
+    "image": "/images/experiences/wadi-shab-1.jpg",
     "excerpt": "A roundup of the best full and half-day trips from Muscat, for travelers who want to see beyond the city.",
     "sections": [
-      { "heading": "Why day trips matter in Oman", "content": "Some of Oman's most distinctive landscapes — canyons, mountain villages, desert dunes — sit outside Muscat itself, making day trips a central part of most itineraries rather than an optional add-on." },
-      { "heading": "Wadi Shab and Bimmah Sinkhole", "content": "The most popular day trip combines a hike and swim at Wadi Shab with a stop at the nearby Bimmah Sinkhole, both reachable in a single full day from Muscat." },
-      { "heading": "Nizwa and Jebel Akhdar", "content": "Heading inland instead of along the coast, a Nizwa and Jebel Akhdar day trip pairs a historic fort and souk with a scenic mountain drive up terraced villages, usually requiring a 4x4 vehicle." },
-      { "heading": "Shorter half-day options", "content": "For travelers with less time, half-day options like a Mutrah and Old Muscat walking tour or a city highlights tour cover key landmarks without a long drive out of the city." }
+      {
+        "heading": "Why day trips matter in Oman",
+        "content": "Some of Oman's most distinctive landscapes — canyons, mountain villages, desert dunes — sit outside Muscat itself, making day trips a central part of most itineraries rather than an optional add-on."
+      },
+      {
+        "heading": "Wadi Shab and Bimmah Sinkhole",
+        "content": "The most popular day trip combines a hike and swim at Wadi Shab with a stop at the nearby Bimmah Sinkhole, both reachable in a single full day from Muscat."
+      },
+      {
+        "heading": "Nizwa and Jebel Akhdar",
+        "content": "Heading inland instead of along the coast, a Nizwa and Jebel Akhdar day trip pairs a historic fort and souk with a scenic mountain drive up terraced villages, usually requiring a 4x4 vehicle."
+      },
+      {
+        "heading": "Shorter half-day options",
+        "content": "For travelers with less time, half-day options like a Mutrah and Old Muscat walking tour or a city highlights tour cover key landmarks without a long drive out of the city."
+      }
     ],
     "faq": [
-      { "q": "Can I combine multiple day trips in one visit?", "a": "Yes, many visitors on a 3-5 day Muscat trip combine a coastal day trip (Wadi Shab) with an inland one (Nizwa/Jebel Akhdar) or a desert overnight." },
-      { "q": "Do I need a 4x4 for these trips?", "a": "Jebel Akhdar specifically requires a 4x4 due to road restrictions; Wadi Shab and Nizwa are accessible by standard vehicle." }
+      {
+        "q": "Can I combine multiple day trips in one visit?",
+        "a": "Yes, many visitors on a 3-5 day Muscat trip combine a coastal day trip (Wadi Shab) with an inland one (Nizwa/Jebel Akhdar) or a desert overnight."
+      },
+      {
+        "q": "Do I need a 4x4 for these trips?",
+        "a": "Jebel Akhdar specifically requires a 4x4 due to road restrictions; Wadi Shab and Nizwa are accessible by standard vehicle."
+      }
     ],
-    "relatedSlugs": ["best-wadi-shab-tours-from-muscat", "best-nizwa-tours-from-muscat", "best-desert-tours-from-muscat"],
-    "internalCategoryLinks": ["day-trips"],
+    "relatedSlugs": [
+      "best-wadi-shab-tours-from-muscat",
+      "best-nizwa-tours-from-muscat",
+      "best-desert-tours-from-muscat"
+    ],
+    "internalCategoryLinks": [
+      "day-trips"
+    ],
     "comparisonSlug": "best-muscat-day-trips"
   },
   {
@@ -102,21 +217,47 @@
     "metaDescription": "Everything to know about overnight desert tours to the Wahiba Sands from Muscat, including what to pack and how camps compare.",
     "author": "Muscat Explorer Editorial Team",
     "date": "2026-01-24",
-    "image": "/images/blog/wahiba-sands-guide.jpg",
+    "image": "/images/experiences/wahiba-sands-1.jpg",
     "excerpt": "A practical guide to booking an overnight desert experience in the Wahiba Sands, Oman's most accessible dune landscape from Muscat.",
     "sections": [
-      { "heading": "About the Wahiba Sands", "content": "The Wahiba Sands (also known as Sharqiya Sands) is a desert region of rolling dunes roughly a three-hour drive from Muscat, home to Bedouin communities and a popular overnight stop on most Oman itineraries." },
-      { "heading": "What an overnight camp involves", "content": "A typical overnight desert tour departs Muscat in the early afternoon, includes a period of 4x4 dune bashing, arrival at camp before sunset, a traditional dinner, stargazing, an overnight stay in a tent, and a return to Muscat the following morning." },
-      { "heading": "Standard camps vs luxury camps", "content": "Standard camps offer a more communal, traditional Bedouin-style setup with shared facilities, while luxury camps provide private en-suite tents and a smaller, quieter setting at a higher price point." },
-      { "heading": "What to pack", "content": "Even though daytime temperatures in the desert can be high, nights can get cool, so a light jacket is worth packing along with sunglasses, a scarf or buff for dust, and a headlamp for moving around camp after dark." }
+      {
+        "heading": "About the Wahiba Sands",
+        "content": "The Wahiba Sands (also known as Sharqiya Sands) is a desert region of rolling dunes roughly a three-hour drive from Muscat, home to Bedouin communities and a popular overnight stop on most Oman itineraries."
+      },
+      {
+        "heading": "What an overnight camp involves",
+        "content": "A typical overnight desert tour departs Muscat in the early afternoon, includes a period of 4x4 dune bashing, arrival at camp before sunset, a traditional dinner, stargazing, an overnight stay in a tent, and a return to Muscat the following morning."
+      },
+      {
+        "heading": "Standard camps vs luxury camps",
+        "content": "Standard camps offer a more communal, traditional Bedouin-style setup with shared facilities, while luxury camps provide private en-suite tents and a smaller, quieter setting at a higher price point."
+      },
+      {
+        "heading": "What to pack",
+        "content": "Even though daytime temperatures in the desert can be high, nights can get cool, so a light jacket is worth packing along with sunglasses, a scarf or buff for dust, and a headlamp for moving around camp after dark."
+      }
     ],
     "faq": [
-      { "q": "Is dune bashing safe?", "a": "It's generally safe with an experienced local driver, though it can be an intense ride; let your guide know if you'd prefer a gentler pace." },
-      { "q": "Are private tents available?", "a": "Yes, typically as an upgrade on standard camps or as standard on luxury camp options." },
-      { "q": "What's the best time of year for a desert trip?", "a": "The cooler months from October to April are generally more comfortable for desert travel." }
+      {
+        "q": "Is dune bashing safe?",
+        "a": "It's generally safe with an experienced local driver, though it can be an intense ride; let your guide know if you'd prefer a gentler pace."
+      },
+      {
+        "q": "Are private tents available?",
+        "a": "Yes, typically as an upgrade on standard camps or as standard on luxury camp options."
+      },
+      {
+        "q": "What's the best time of year for a desert trip?",
+        "a": "The cooler months from October to April are generally more comfortable for desert travel."
+      }
     ],
-    "relatedSlugs": ["best-muscat-day-trips", "muscat-3-day-itinerary"],
-    "internalCategoryLinks": ["desert-tours"],
+    "relatedSlugs": [
+      "best-muscat-day-trips",
+      "muscat-3-day-itinerary"
+    ],
+    "internalCategoryLinks": [
+      "desert-tours"
+    ],
     "comparisonSlug": "best-desert-tours"
   },
   {
@@ -126,19 +267,40 @@
     "metaDescription": "A guide to visiting Nizwa from Muscat, covering the historic fort, souk and the mountain village of Jebel Akhdar.",
     "author": "Muscat Explorer Editorial Team",
     "date": "2026-01-26",
-    "image": "/images/blog/nizwa-guide.jpg",
+    "image": "/images/experiences/nizwa-1.jpg",
     "excerpt": "What to see in Nizwa, Oman's former capital, and how to combine it with a trip up Jebel Akhdar.",
     "sections": [
-      { "heading": "Why visit Nizwa", "content": "Once Oman's capital, Nizwa is home to a well-preserved 17th-century fort, one of the country's most famous, along with a traditional souk known for silver jewelry, pottery and a lively Friday livestock market." },
-      { "heading": "Combining Nizwa with Jebel Akhdar", "content": "Most tours from Muscat combine Nizwa with a drive up to Jebel Akhdar, a mountain region known for terraced gardens and dramatic canyon viewpoints, requiring a 4x4 due to road restrictions." },
-      { "heading": "Timing your visit", "content": "The fort and souk are best visited in the morning before the midday heat, particularly if combining the stop with an afternoon drive up into the mountains." }
+      {
+        "heading": "Why visit Nizwa",
+        "content": "Once Oman's capital, Nizwa is home to a well-preserved 17th-century fort, one of the country's most famous, along with a traditional souk known for silver jewelry, pottery and a lively Friday livestock market."
+      },
+      {
+        "heading": "Combining Nizwa with Jebel Akhdar",
+        "content": "Most tours from Muscat combine Nizwa with a drive up to Jebel Akhdar, a mountain region known for terraced gardens and dramatic canyon viewpoints, requiring a 4x4 due to road restrictions."
+      },
+      {
+        "heading": "Timing your visit",
+        "content": "The fort and souk are best visited in the morning before the midday heat, particularly if combining the stop with an afternoon drive up into the mountains."
+      }
     ],
     "faq": [
-      { "q": "How far is Nizwa from Muscat?", "a": "Around 1.5 to 2 hours by car, depending on traffic and route." },
-      { "q": "Is the fort suitable for children?", "a": "Yes, the fort's towers and courtyards are generally family-friendly, though some areas involve stairs." }
+      {
+        "q": "How far is Nizwa from Muscat?",
+        "a": "Around 1.5 to 2 hours by car, depending on traffic and route."
+      },
+      {
+        "q": "Is the fort suitable for children?",
+        "a": "Yes, the fort's towers and courtyards are generally family-friendly, though some areas involve stairs."
+      }
     ],
-    "relatedSlugs": ["best-muscat-day-trips", "best-desert-tours-from-muscat"],
-    "internalCategoryLinks": ["day-trips", "culture"],
+    "relatedSlugs": [
+      "best-muscat-day-trips",
+      "best-desert-tours-from-muscat"
+    ],
+    "internalCategoryLinks": [
+      "day-trips",
+      "culture"
+    ],
     "comparisonSlug": "best-nizwa-tours"
   },
   {
@@ -148,20 +310,44 @@
     "metaDescription": "A guide to visiting Jebel Akhdar, Oman's 'Green Mountain', including what to expect and why a 4x4 is required.",
     "author": "Muscat Explorer Editorial Team",
     "date": "2026-01-28",
-    "image": "/images/blog/jebel-akhdar-guide.jpg",
+    "image": "/images/experiences/nizwa-1.jpg",
     "excerpt": "Everything to know about visiting Jebel Akhdar, from terraced rose gardens to canyon-edge viewpoints.",
     "sections": [
-      { "heading": "What is Jebel Akhdar", "content": "Jebel Akhdar, meaning 'Green Mountain', is a plateau in the Al Hajar mountain range known for terraced villages growing roses, pomegranates and apricots, along with sweeping viewpoints over deep canyons." },
-      { "heading": "Getting there", "content": "The road up Jebel Akhdar is steep and restricted to 4x4 vehicles, with a checkpoint partway up; most visitors join an organized tour rather than attempting the drive independently in a rental car." },
-      { "heading": "What to do once there", "content": "Popular stops include the village of Al Ayn with its terraced gardens, the Diana Point viewpoint over Wadi Nakhr (sometimes called Oman's Grand Canyon), and short walks along the terrace paths depending on the season." },
-      { "heading": "Best time to visit", "content": "Jebel Akhdar's higher elevation makes it noticeably cooler than Muscat, particularly appealing in the warmer months, while the rose harvest in spring is a highlight for visitors interested in the region's rose water production." }
+      {
+        "heading": "What is Jebel Akhdar",
+        "content": "Jebel Akhdar, meaning 'Green Mountain', is a plateau in the Al Hajar mountain range known for terraced villages growing roses, pomegranates and apricots, along with sweeping viewpoints over deep canyons."
+      },
+      {
+        "heading": "Getting there",
+        "content": "The road up Jebel Akhdar is steep and restricted to 4x4 vehicles, with a checkpoint partway up; most visitors join an organized tour rather than attempting the drive independently in a rental car."
+      },
+      {
+        "heading": "What to do once there",
+        "content": "Popular stops include the village of Al Ayn with its terraced gardens, the Diana Point viewpoint over Wadi Nakhr (sometimes called Oman's Grand Canyon), and short walks along the terrace paths depending on the season."
+      },
+      {
+        "heading": "Best time to visit",
+        "content": "Jebel Akhdar's higher elevation makes it noticeably cooler than Muscat, particularly appealing in the warmer months, while the rose harvest in spring is a highlight for visitors interested in the region's rose water production."
+      }
     ],
     "faq": [
-      { "q": "Do I need a 4x4?", "a": "Yes, a 4x4 vehicle is required for the road up Jebel Akhdar." },
-      { "q": "How much time should I budget?", "a": "Most visitors combine Jebel Akhdar with Nizwa as a full-day trip from Muscat." }
+      {
+        "q": "Do I need a 4x4?",
+        "a": "Yes, a 4x4 vehicle is required for the road up Jebel Akhdar."
+      },
+      {
+        "q": "How much time should I budget?",
+        "a": "Most visitors combine Jebel Akhdar with Nizwa as a full-day trip from Muscat."
+      }
     ],
-    "relatedSlugs": ["best-nizwa-tours-from-muscat", "best-muscat-day-trips"],
-    "internalCategoryLinks": ["day-trips", "adventure"]
+    "relatedSlugs": [
+      "best-nizwa-tours-from-muscat",
+      "best-muscat-day-trips"
+    ],
+    "internalCategoryLinks": [
+      "day-trips",
+      "adventure"
+    ]
   },
   {
     "slug": "things-to-do-in-muscat-for-families",
@@ -170,20 +356,44 @@
     "metaDescription": "Family-friendly attractions and tours in Muscat, from gentle boat trips to city highlights suited to younger travelers.",
     "author": "Muscat Explorer Editorial Team",
     "date": "2026-01-30",
-    "image": "/images/blog/muscat-family.jpg",
+    "image": "/images/experiences/muscat-family.jpg",
     "excerpt": "A guide to Muscat's most family-friendly attractions and tours, with tips for traveling with children.",
     "sections": [
-      { "heading": "City highlights at a relaxed pace", "content": "A half-day city tour covering the Grand Mosque, Corniche and Mutrah Souk works well for families, since it involves minimal walking and can be adjusted around nap times or younger children's schedules." },
-      { "heading": "Gentle boat trips", "content": "Sunset dhow cruises and dolphin-watching trips tend to be calmer and shorter than snorkeling excursions, making them a good fit for families with younger children not yet comfortable in open water." },
-      { "heading": "Beaches and beach clubs", "content": "Several beach clubs around Muscat offer pools, shaded areas and calmer swimming conditions than open snorkeling sites, useful for a lower-key family day." },
-      { "heading": "Things to keep in mind", "content": "Midday heat, particularly from May to September, is worth planning around with families — mornings and late afternoons tend to be more comfortable for outdoor activities." }
+      {
+        "heading": "City highlights at a relaxed pace",
+        "content": "A half-day city tour covering the Grand Mosque, Corniche and Mutrah Souk works well for families, since it involves minimal walking and can be adjusted around nap times or younger children's schedules."
+      },
+      {
+        "heading": "Gentle boat trips",
+        "content": "Sunset dhow cruises and dolphin-watching trips tend to be calmer and shorter than snorkeling excursions, making them a good fit for families with younger children not yet comfortable in open water."
+      },
+      {
+        "heading": "Beaches and beach clubs",
+        "content": "Several beach clubs around Muscat offer pools, shaded areas and calmer swimming conditions than open snorkeling sites, useful for a lower-key family day."
+      },
+      {
+        "heading": "Things to keep in mind",
+        "content": "Midday heat, particularly from May to September, is worth planning around with families — mornings and late afternoons tend to be more comfortable for outdoor activities."
+      }
     ],
     "faq": [
-      { "q": "Is Wadi Shab suitable for young children?", "a": "The hike involves uneven terrain and swimming to reach the cave, so it's generally better suited to older children comfortable in the water." },
-      { "q": "Are car seats provided on tours?", "a": "This varies by operator; contact the provider directly if traveling with young children who need a car seat." }
+      {
+        "q": "Is Wadi Shab suitable for young children?",
+        "a": "The hike involves uneven terrain and swimming to reach the cave, so it's generally better suited to older children comfortable in the water."
+      },
+      {
+        "q": "Are car seats provided on tours?",
+        "a": "This varies by operator; contact the provider directly if traveling with young children who need a car seat."
+      }
     ],
-    "relatedSlugs": ["50-best-things-to-do-in-muscat", "free-things-to-do-in-muscat"],
-    "internalCategoryLinks": ["family", "cruises"]
+    "relatedSlugs": [
+      "50-best-things-to-do-in-muscat",
+      "free-things-to-do-in-muscat"
+    ],
+    "internalCategoryLinks": [
+      "family",
+      "cruises"
+    ]
   },
   {
     "slug": "free-things-to-do-in-muscat",
@@ -192,20 +402,43 @@
     "metaDescription": "Budget-friendly and free things to do in Muscat, from the Corniche to public beaches and viewpoints.",
     "author": "Muscat Explorer Editorial Team",
     "date": "2026-02-02",
-    "image": "/images/blog/muscat-free-things.jpg",
+    "image": "/images/experiences/mutrah-souk-1.jpg",
     "excerpt": "Muscat has plenty to offer without spending a rial — here are the best free and low-cost things to do.",
     "sections": [
-      { "heading": "Walk the Mutrah Corniche", "content": "The waterfront promenade in Mutrah is free to walk at any time of day, with views over the harbor, watchtowers on the surrounding hills, and the old townhouses lining the shore." },
-      { "heading": "Visit the Grand Mosque", "content": "The Sultan Qaboos Grand Mosque is free to enter for non-Muslim visitors during designated visiting hours, with a modest dress code required." },
-      { "heading": "Browse Mutrah Souk", "content": "Entry to the souk is free, and it's worth visiting even without buying anything, simply to wander its covered lanes and see the frankincense stalls and silverwork." },
-      { "heading": "Public beaches and viewpoints", "content": "Several public beaches around the city are free to access, and various coastal viewpoints, including spots along the road toward Old Muscat, offer scenic photo stops without an entry fee." }
+      {
+        "heading": "Walk the Mutrah Corniche",
+        "content": "The waterfront promenade in Mutrah is free to walk at any time of day, with views over the harbor, watchtowers on the surrounding hills, and the old townhouses lining the shore."
+      },
+      {
+        "heading": "Visit the Grand Mosque",
+        "content": "The Sultan Qaboos Grand Mosque is free to enter for non-Muslim visitors during designated visiting hours, with a modest dress code required."
+      },
+      {
+        "heading": "Browse Mutrah Souk",
+        "content": "Entry to the souk is free, and it's worth visiting even without buying anything, simply to wander its covered lanes and see the frankincense stalls and silverwork."
+      },
+      {
+        "heading": "Public beaches and viewpoints",
+        "content": "Several public beaches around the city are free to access, and various coastal viewpoints, including spots along the road toward Old Muscat, offer scenic photo stops without an entry fee."
+      }
     ],
     "faq": [
-      { "q": "Is the Grand Mosque really free?", "a": "Yes, entry for non-Muslim visitors is free during the designated visiting hours, typically in the morning." },
-      { "q": "Are there free walking routes in Old Muscat?", "a": "Yes, the area around Al Alam Palace and the coastal road can be explored on foot at no cost, though some sites are exterior-only viewing." }
+      {
+        "q": "Is the Grand Mosque really free?",
+        "a": "Yes, entry for non-Muslim visitors is free during the designated visiting hours, typically in the morning."
+      },
+      {
+        "q": "Are there free walking routes in Old Muscat?",
+        "a": "Yes, the area around Al Alam Palace and the coastal road can be explored on foot at no cost, though some sites are exterior-only viewing."
+      }
     ],
-    "relatedSlugs": ["50-best-things-to-do-in-muscat", "muscat-3-day-itinerary"],
-    "internalCategoryLinks": ["culture"]
+    "relatedSlugs": [
+      "50-best-things-to-do-in-muscat",
+      "muscat-3-day-itinerary"
+    ],
+    "internalCategoryLinks": [
+      "culture"
+    ]
   },
   {
     "slug": "muscat-3-day-itinerary",
@@ -214,19 +447,45 @@
     "metaDescription": "A practical 3-day itinerary for Muscat covering the city's landmarks, a day trip to Wadi Shab and time to relax by the coast.",
     "author": "Muscat Explorer Editorial Team",
     "date": "2026-02-04",
-    "image": "/images/blog/muscat-itinerary.jpg",
+    "image": "/images/experiences/muscat-city-1.jpg",
     "excerpt": "A day-by-day plan for spending three days in Muscat, balancing city sightseeing with a trip outside town.",
     "sections": [
-      { "heading": "Day 1: City highlights", "content": "Start at the Sultan Qaboos Grand Mosque in the morning, followed by lunch and an afternoon exploring Mutrah Souk and the Corniche. In the evening, consider a sunset dhow cruise along the coastline." },
-      { "heading": "Day 2: Wadi Shab and Bimmah Sinkhole", "content": "Dedicate a full day to a Wadi Shab and Bimmah Sinkhole tour, departing early to make the most of the cooler morning hours for hiking and swimming." },
-      { "heading": "Day 3: Old Muscat and free time", "content": "Spend the morning around Old Muscat, viewing Al Alam Palace and the coastal forts, before an afternoon at leisure — whether that's a beach club, further shopping in Mutrah, or an optional half-day Nizwa trip if time allows." },
-      { "heading": "Extending your trip", "content": "Travelers with more time often extend this itinerary with an overnight desert stay in the Wahiba Sands or a full day trip to Nizwa and Jebel Akhdar — see our related guides for details." }
+      {
+        "heading": "Day 1: City highlights",
+        "content": "Start at the Sultan Qaboos Grand Mosque in the morning, followed by lunch and an afternoon exploring Mutrah Souk and the Corniche. In the evening, consider a sunset dhow cruise along the coastline."
+      },
+      {
+        "heading": "Day 2: Wadi Shab and Bimmah Sinkhole",
+        "content": "Dedicate a full day to a Wadi Shab and Bimmah Sinkhole tour, departing early to make the most of the cooler morning hours for hiking and swimming."
+      },
+      {
+        "heading": "Day 3: Old Muscat and free time",
+        "content": "Spend the morning around Old Muscat, viewing Al Alam Palace and the coastal forts, before an afternoon at leisure — whether that's a beach club, further shopping in Mutrah, or an optional half-day Nizwa trip if time allows."
+      },
+      {
+        "heading": "Extending your trip",
+        "content": "Travelers with more time often extend this itinerary with an overnight desert stay in the Wahiba Sands or a full day trip to Nizwa and Jebel Akhdar — see our related guides for details."
+      }
     ],
     "faq": [
-      { "q": "Is 3 days enough for Muscat?", "a": "Three days is enough to cover the city's main highlights plus one day trip, though many visitors extend their stay to include the desert or Nizwa." },
-      { "q": "Should I rent a car or book tours?", "a": "Both are viable; tours are generally more convenient for day trips requiring local knowledge (like the 4x4 road up Jebel Akhdar), while a rental car offers flexibility for city-based exploring." }
+      {
+        "q": "Is 3 days enough for Muscat?",
+        "a": "Three days is enough to cover the city's main highlights plus one day trip, though many visitors extend their stay to include the desert or Nizwa."
+      },
+      {
+        "q": "Should I rent a car or book tours?",
+        "a": "Both are viable; tours are generally more convenient for day trips requiring local knowledge (like the 4x4 road up Jebel Akhdar), while a rental car offers flexibility for city-based exploring."
+      }
     ],
-    "relatedSlugs": ["50-best-things-to-do-in-muscat", "best-wadi-shab-tours-from-muscat", "best-desert-tours-from-muscat"],
-    "internalCategoryLinks": ["tours", "day-trips", "cruises"]
+    "relatedSlugs": [
+      "50-best-things-to-do-in-muscat",
+      "best-wadi-shab-tours-from-muscat",
+      "best-desert-tours-from-muscat"
+    ],
+    "internalCategoryLinks": [
+      "tours",
+      "day-trips",
+      "cruises"
+    ]
   }
 ]

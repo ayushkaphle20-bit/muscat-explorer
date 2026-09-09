@@ -85,7 +85,7 @@ export default async function BlogPostPage({
       </div>
 
       <div className="mt-6 max-w-3xl">
-        <PlaceholderImage seed={post.slug} label={post.title} aspect="aspect-[16/9]" className="rounded-2xl" />
+        <PlaceholderImage seed={post.slug} label={post.title} src={post.image} aspect="aspect-[16/9]" className="rounded-2xl" />
       </div>
 
       <div className="mt-8 lg:grid lg:grid-cols-[1fr_300px] lg:gap-10">

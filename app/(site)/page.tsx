@@ -42,12 +42,12 @@ const whyPoints = [
 ];
 
 const guides = [
-  { slug: "50-best-things-to-do-in-muscat", title: "Best Things To Do in Muscat" },
-  { slug: "best-wadi-shab-tours-from-muscat", title: "Best Wadi Shab Tours" },
-  { slug: "best-daymaniyat-islands-snorkeling-tours", title: "Best Daymaniyat Islands Tours" },
-  { slug: "best-muscat-day-trips", title: "Best Muscat Day Trips" },
-  { slug: "best-desert-tours-from-muscat", title: "Best Desert Tours From Muscat" },
-  { slug: "muscat-3-day-itinerary", title: "Muscat 3-Day Itinerary" },
+  { slug: "50-best-things-to-do-in-muscat", title: "Best Things To Do in Muscat", image: "/images/experiences/muscat-things-to-do.jpg" },
+  { slug: "best-wadi-shab-tours-from-muscat", title: "Best Wadi Shab Tours", image: "/images/experiences/wadi-shab-1.jpg" },
+  { slug: "best-daymaniyat-islands-snorkeling-tours", title: "Best Daymaniyat Islands Tours", image: "/images/experiences/daymaniyat-1.jpg" },
+  { slug: "best-muscat-day-trips", title: "Best Muscat Day Trips", image: "/images/experiences/wadi-shab-1.jpg" },
+  { slug: "best-desert-tours-from-muscat", title: "Best Desert Tours From Muscat", image: "/images/experiences/wahiba-sands-1.jpg" },
+  { slug: "muscat-3-day-itinerary", title: "Muscat 3-Day Itinerary", image: "/images/experiences/muscat-city-1.jpg" },
 ];
 
 export default function HomePage() {
@@ -215,7 +215,7 @@ export default function HomePage() {
                 href={`/blog/${g.slug}`}
                 className="group overflow-hidden rounded-2xl border border-white/10 bg-white/5 hover:bg-white/10 transition-colors"
               >
-                <PlaceholderImage seed={g.slug} label={g.title} aspect="aspect-[16/9]" />
+                <PlaceholderImage seed={g.slug} label={g.title} src={g.image} aspect="aspect-[16/9]" />
                 <div className="p-4">
                   <h3 className="font-[family-name:var(--font-fraunces)] text-base text-white group-hover:text-[var(--color-brass-pale)]">
                     {g.title}
