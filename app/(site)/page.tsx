@@ -4,6 +4,7 @@ import SearchBar from "@/components/SearchBar";
 import CategoryIcon from "@/components/CategoryIcon";
 import ExperienceCard from "@/components/ExperienceCard";
 import PlaceholderImage from "@/components/PlaceholderImage";
+import HeroSlideshow from "@/components/HeroSlideshow";
 import AdSlot from "@/components/AdSlot";
 import { getCategories, getFeaturedExperiences } from "@/lib/data";
 
@@ -59,11 +60,14 @@ export default function HomePage() {
       {/* Hero */}
       <section className="relative overflow-hidden bg-[var(--color-sea)]">
         <div className="absolute inset-0">
-          <PlaceholderImage
-            seed="muscat-hero"
-            label="Muscat coastline"
-            aspect="aspect-auto h-full"
-            className="h-full w-full opacity-70"
+          <HeroSlideshow
+            images={[
+              "/images/experiences/wadi-shab-1.jpg",
+              "/images/experiences/wahiba-sands-1.jpg",
+              "/images/experiences/daymaniyat-1.jpg",
+              "/images/experiences/mutrah-souk-1.jpg",
+              "/images/experiences/muscat-city-1.jpg",
+            ]}
           />
           <div className="absolute inset-0 bg-gradient-to-t from-[var(--color-sea)] via-[var(--color-sea)]/70 to-[var(--color-sea)]/30" />
         </div>
