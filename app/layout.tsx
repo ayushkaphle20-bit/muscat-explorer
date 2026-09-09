@@ -48,6 +48,13 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }}
         />
+        {site.integrations.adSenseClientId && (
+          <script
+            async
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${site.integrations.adSenseClientId}`}
+            crossOrigin="anonymous"
+          />
+        )}
       </head>
       <body className="antialiased flex min-h-screen flex-col">
         <AnalyticsScripts config={site.integrations} />
