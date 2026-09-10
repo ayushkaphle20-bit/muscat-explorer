@@ -22,9 +22,14 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
   },
-  verification: site.integrations.googleSearchConsoleVerification
-    ? { google: site.integrations.googleSearchConsoleVerification }
-    : undefined,
+  verification: {
+    ...(site.integrations.googleSearchConsoleVerification
+      ? { google: site.integrations.googleSearchConsoleVerification }
+      : {}),
+    other: {
+      "p:domain_verify": "38239d3c896a97f0d18c41584b7225f6",
+    },
+  },
 };
 
 export default function RootLayout({
